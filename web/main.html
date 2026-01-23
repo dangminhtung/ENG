@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Sentence Practice - Translate Mode</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <h2>Translate English Sentences from Vietnamese</h2>
+  <input type="file" id="fileInput" accept=".txt" />
+
+  <div class="container">
+    <div class="left-pane">
+      <div id="originalText" class="card" style="display:none;">
+        <h3>Vietnamese Hint</h3>
+        <p id="originalContent"></p>
+      </div>
+
+      <div id="inputArea" class="card" style="margin-top: 20px; display: none;">
+        <div class="input-container">
+          <div class="label">Nhập câu của bạn:</div>
+          <textarea id="sentenceInput" rows="1" placeholder="Ví dụ: Tôi muốn học tiếng Anh..."></textarea>
+        </div>
+        <button id="submitBtn">Submit</button>
+      </div>
+    </div>
+
+    <div class="right-pane">
+      <div id="result"></div>
+    </div>
+  </div>
+
+
+  <script>
+    let englishSentences = [];
+    let vietnameseSentences = [];
+    let currentIndex = 0;
+
+    const fileInput = document.getElementById('fileInput');
+    const originalContent = document.getElementById('originalContent');
+    const inputArea = document.getElementById('inputArea');
+    const sentenceInput = document.getElementById('sentenceInput');
+    const submitBtn = document.getElementById('submitBtn');
+    const result = document.getElementById('result');
+
+
+    sentenceInput.addEventListener("input", () => {
+      sentenceInput.style.height = "auto"; // Reset chiều cao
+      sentenceInput.style.height = sentenceInput.scrollHeight + "px"; // Gán chiều cao theo nội dung
+    });
+    fileInput.addEventListener('change', function (event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function (e) {
+        const [englishText, vietnameseText] = e.target.result.trim().split(/\n\s*\n/);
+
+        if (!englishText || !vietnameseText) {
+          alert("❌ Lỗi: File phải gồm 2 đoạn văn (1 tiếng Anh, 1 tiếng Việt) cách nhau bởi 1 dòng trống.");
+          return;
+        }
+
+        englishSentences = englishText
+          .split(/(?<=[.!?])\s+/)
+          .filter(s => s.trim().length > 0)
+          .slice(0, 10);
+
+        vietnameseSentences = vietnameseText
+          .split(/(?<=[.!?])\s+/)
+          .filter(s => s.trim().length > 0)
+          .slice(0, 10);
+
+        if (englishSentences.length !== vietnameseSentences.length) {
+          alert("❌ Lỗi: Số câu tiếng Anh và tiếng Việt không khớp.");
+          return;
+        }
+
+        currentIndex = 0;
+        displayVietnameseWithHighlight();
+        sentenceInput.value = '';
+        inputArea.style.display = 'block';
+        document.getElementById('originalText').style.display = 'block';
+        result.innerHTML = '';
+        sentenceInput.disabled = false;
+        submitBtn.disabled = false;
+        sentenceInput.focus();
+      };
+      reader.readAsText(file);
+    });
+
+    function displayVietnameseWithHighlight() {
+      const highlighted = vietnameseSentences
+        .map((s, i) => i === currentIndex ? `<span class="highlight">${s}</span>` : s)
+        .join(' ');
+      originalContent.innerHTML = highlighted;
+    }
+
+    function handleCheck() {
+      const userInput = sentenceInput.value.trim();
+      const correctSentence = englishSentences[currentIndex].trim();
+
+      if (userInput.toLowerCase() === correctSentence.toLowerCase()) {
+        result.innerHTML = `<p style="color:green;">✅ Correct: "${correctSentence}"</p>`;
+        currentIndex++;
+        if (currentIndex < englishSentences.length) {
+          displayVietnameseWithHighlight();
+          sentenceInput.value = '';
+          sentenceInput.focus();
+        } else {
+          sentenceInput.disabled = true;
+          submitBtn.disabled = true;
+          result.innerHTML += `<p style="color:blue;"><strong>🎉 Completed all sentences!</strong></p>`;
+        }
+      } else {
+        result.innerHTML = `
+        <p style="color:green;">✅: "${correctSentence}"</p>
+        <p style="color:red;">❌: "${userInput}"</p>
+        `;
+      }
+    }
+
+    submitBtn.addEventListener('click', handleCheck);
+    sentenceInput.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        handleCheck();
+      }
+    });
+  </script>
+</body>
+
+</html>

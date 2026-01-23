@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Korean Vocabulary Quiz</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="quiz-container">
+        <h1>Chọn nghĩa đúng của từ tiếng Hàn 🇰🇷</h1>
+        <input type="file" id="fileInput" accept=".txt" />
+        <button class="btn" onclick="loadFromFile()">Bắt đầu</button>
+
+        <div id="quiz" style="display:none;">
+            <div id="question" class="question"></div>
+            <div id="choices" class="choices"></div>
+            <button class="btn next" onclick="loadQuestion()">➡️ Câu hỏi tiếp theo</button>
+            <div id="result" class="result"></div>
+        </div>
+    </div>
+
+    <!-- Ảnh động khi đúng -->
+    <div class="gif-container">
+        <img id="successImage" src="success.gif" alt="Correct!" />
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
