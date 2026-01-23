@@ -1,7 +1,9 @@
 /*
 
 
-* There are many famous places in Vietnam, but my favorite is Da Nang. It has beautiful beaches and high mountains, so I can enjoy both swimming and hiking. I especially like taking the cable car to the top of the mountain because the view of the sea is amazing. Many foreigners also visit Da Nang because it’s a very beautiful city.
+* There are many famous places in Vietnam, but my favorite is Da Nang. It has beautiful beaches and high mountains, so I can enjoy both swimming and hiking. I especially like taking the cable car to the top of the mountain because the view of the sea is amazing. Many foreigners also visit Da Nang because it’s a very beautiful city. 
+
+hello tablet
 
 
 
