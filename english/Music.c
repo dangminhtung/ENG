@@ -23,23 +23,8 @@ Bất cứ khi nào rảnh rỗi, tôi thích nghe nhạc pop sôi động. Ở 
 I love listening to music. When I was young, I liked fast songs like K-pop because they made me feel excited. But when I entered high school, I started to enjoy ballads because my friend always listened to them. Ballad songs make me feel calm and help me relax after a long day. These days, I like to listen to calm music in the morning to start my day peacefully.
 
 
-GBL architeecture
 
-Trên nền tảng Qualcomm:
 
-PBL (Primary Bootloader) nằm trong ROM.
-
-PBL nạp SBL1, rồi SBL1 nạp SBL2, và sau đó là GBL hoặc XBL (eXtensible BootLoader).
-
-GBL/XBL chịu trách nhiệm:
-
-Xác minh ABL/LK.
-
-Nạp các partition như boot, vbmeta, dtbo.
-
-Chuẩn bị Device Tree, Verified Boot chain.
-
-Ở các máy dùng UEFI boot (như Windows ARM), GBL chuyển quyền điều khiển sang UEFI DXE core thay vì Android Bootloader.
 
 
 +-----------------------------------------------------------+
