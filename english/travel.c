@@ -7,6 +7,10 @@
 ! ???? needs more writing
 * Last year, I traveled alone to Da Nang, which is a famous city in Vietnam. I climbed a mountain there because the view was so beautiful, but I lost my wallet while taking pictures. I was really worried because my ID and money were inside. It was a scary experience, and now I always check my wallet carefully when I travel.
 
+I lost my wallet while taking pictures.
+I was really worried because my ID and money were inside
+It was a scary experience, and now i always check my wallet carefully when I travel
+
 
 
 * Many people like to travel for different reasons. Some people want to see new places, and others want to make new friends. For me, the best reason to travel is to relieve stress. When I travel, I can relax, enjoy beautiful views, and forget about my busy life. That’s why I think traveling is very important for everyone.
@@ -14,4 +18,8 @@
 
 ! ???? need more writing
 * I like traveling to Da Nang because it’s famous for it's beautiful sea. When I go there, I always bring sunscreen, a hat, and a swimsuit. The sun is very strong, so sunscreen is a must. I also take many pictures and wear nice clothes. Of course, having enough money is important because traveling costs a lot.
+
+When i go there, I always bring sunscreen, a hat and a swimsuit.
+the sun is very strong, so sunscreen is a must
+of course, having enough money is important because traveling costs a lot.
 */
