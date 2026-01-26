@@ -4,22 +4,17 @@
 * There are many famous places in Vietnam, but my favorite is Da Nang. It has beautiful beaches and high mountains, so I can enjoy both swimming and hiking. I especially like taking the cable car to the top of the mountain because the view of the sea is amazing. Many foreigners also visit Da Nang because it’s a very attractive city.
 
 
-! ???? needs more writing
-* Last year, I traveled alone to Da Nang, which is a famous city in Vietnam. I climbed a mountain there because the view was so beautiful, but I lost my wallet while taking pictures. I was really worried because my ID and money were inside. It was a scary experience, and now I always check my wallet carefully when I travel.
-
-I lost my wallet while taking pictures.
-I was really worried because my ID and money were inside
-It was a scary experience, and now i always check my wallet carefully when I travel
-
+* I had a small problem during a trip with my friends. The bus we took was delayed because of heavy traffic. As a result, we arrived the hotel later than expected. I contacted the hotel staff in advance to explain situation. Luckily, they were very helpful and allowed us to check in late. In the end, the problem was sloved without any serious trouble.
 
 
 * Many people like to travel for different reasons. Some people want to see new places, and others want to make new friends. For me, the best reason to travel is to relieve stress. When I travel, I can relax, enjoy beautiful views, and forget about my busy life. That’s why I think traveling is very important for everyone.
 
 
-! ???? need more writing
-* I like traveling to Da Nang because it’s famous for it's beautiful sea. When I go there, I always bring sunscreen, a hat, and a swimsuit. The sun is very strong, so sunscreen is a must. I also take many pictures and wear nice clothes. Of course, having enough money is important because traveling costs a lot.
+* Before traveling, I usually check my schedule and book my hotel and transportation.
+Then, I pack suitable clothes and important personal items.
+I also prepare some basic medicine.
+This helps me feel more comfortable during the trip.
 
-When i go there, I always bring sunscreen, a hat and a swimsuit.
-the sun is very strong, so sunscreen is a must
-of course, having enough money is important because traveling costs a lot.
+
+
 */
