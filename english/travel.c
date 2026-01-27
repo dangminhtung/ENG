@@ -12,6 +12,6 @@
 
 * Before traveling, I usually check my schedule and book my hotel and transportation. Then, I pack suitable clothes and important personal items. I also prepare some basic medicine. This helps me feel more comfortable during the trip.
 
-
+* Before traveling, I usually check my schedule and book my hotel and transportation. Then, I pack my suitable clothes base on the weather place I'm going to. I also bring personal items such as my phone, charge, and some cash. In addition, I prepare some basic medicines in case I'm feel unwell. Finally, I make sure everything is ready so I can enjoy the trip without worries.
 
 */
