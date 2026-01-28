@@ -9,11 +9,8 @@
 
 * Many people like to travel for different reasons. Some people want to see new places, and others want to make new friends. For me, the best reason to travel is to relieve stress. When I travel, I can relax, enjoy beautiful views, and forget about my busy life. That’s why I think traveling is very important for everyone.
 
-* Before traveling, I usually check my schedule and book my hotel and transportation. Then, I pack suitable clothes base on the weather place i'm going to. i also bring personal items such as my phone, charge and some cash. in addition, I prepare some basic medicines in case I'm feel unwell. Finally, I make sure everything is ready so i can enjoy the trip without worries,)
 
-<<<<<<< HEAD
-=======
-* Before traveling, I usually check my schedule and book my hotel and transportation. Then, I pack my suitable clothes base on the weather place I'm going to. I also bring personal items such as my phone, charge, and some cash. In addition, I prepare some basic medicines in case I'm feel unwell. Finally, I make sure everything is ready so I can enjoy the trip without worries
+* Before traveling, I usually check my schedule and confirm my hotel and transportation. Then, I pack my clothes base on the weather of the place I'm going to. I also bring personal items such as my phone, charge, and some cash. In addition, I prepare some basic medicines in case I'm feel unwell. Finally, I make sure everything is ready so I can enjoy the trip without worries
 
->>>>>>> bb684aa6f639d3dac602d385dc93b1d61709b572
+* In the past, I didn't travel very much because I was busy with my studies and didn't have much money. At that time 
 */
