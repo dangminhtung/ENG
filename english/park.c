@@ -1,5 +1,4 @@
 /*
-test
 
 ! what do you take before you go for a walk
 * Before jogging, I change into comfortable and light clothes so I can move easily and absorb sweat. I think choosing the right shoes is the most important thing because uncomfortable shoes can hurt my feet or ankles. When I jog in the park, I usually listen to music for about an hour. After that, I sit on a bench, eat some snacks, and drink water to relax and regain energy.
