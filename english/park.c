@@ -8,8 +8,9 @@ absorb sweat: hấp thụ mồ hôi
 ankles: mắt cá chân ang cồ
 
 ! How did you first start going to the park
-* I don’t remember the first time I went to the park, but I think I started going there when I was in high school because of my mom. At that time, I was under a lot of stress from studying, and I often felt tired and had headaches. I asked my mom for advice, and she suggested regular exercise. So I started jogging in a big park near my house every evening. After about a month, I felt healthier and much less stressed, so I still go to the park to exercise regularly.
+* I don’t remember the first time I went to the park, but I think I started going there when I was in high school because of my mom. At that time, I was under a lot of stress from studying, and I often felt tired and had headaches. I asked my mom for advice, and she suggeste I should exercise more. So I started jogging in a park near my house every evening. After about a month, I felt healthier and much less stressed, so I still go to the park to exercise regularly.
 
+headaches: hét đệc
 
 ! experience(weather)
 * The most memorable experience I had at the park happened a few months ago. I was jogging in my favorite park when it suddenly started to rain heavily. I didn’t check the weather forecast and didn’t bring an umbrella, so I got completely wet. The road was slippery and dark, and I fell and hurt my knee. A stranger helped me and took me to the hospital. Since then, I always check the weather forecast before going out.
