@@ -13,8 +13,9 @@ ankles: mắt cá chân ang cồ
 headaches: hét đệc
 
 ! experience(weather)
-* The most memorable experience I had at the park happened a few months ago. I was jogging in my favorite park when it suddenly started to rain heavily. I didn’t check the weather forecast and didn’t bring an umbrella, so I got completely wet. The road was slippery and dark, and I fell and hurt my knee. A stranger helped me and took me to the hospital. Since then, I always check the weather forecast before going out.
+* My most memorable experience at the park happened a few months ago. I was jogging in my favorite park when it suddenly started raining heavily. I didn’t check the weather forecast and didn’t bring an umbrella, so I got completely wet. The road was slippery and dark, and I fell and hurt my knee. A stranger helped me and took me to the hospital. Since then, I always check the weather forecast before going out.
 
+suddenly: sắt đừn ly
 forecast: dự báo pho cát
 
 ! Part description (+ holiday)
