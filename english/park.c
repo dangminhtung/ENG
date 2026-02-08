@@ -13,16 +13,19 @@ ankles: mắt cá chân ang cồ
 headaches: hét đệc
 
 ! experience(weather)
-* My most memorable experience at the park happened a few months ago. I was jogging in my favorite park when it suddenly started raining heavily. I didn’t check the weather forecast and didn’t bring an umbrella, so I got completely wet. The road was slippery and dark, and I fell and hurt my knee. A stranger helped me and took me to the hospital. Since then, I always check the weather forecast before going out.
+* My most memorable experience at the park happened a few months ago. I was jogging in my favorite park when it suddenly started raining heavily. I didn’t check the weather forecast and didn’t bring an umbrella, so I got completely wet. The road was slippery and dark, I fell and hurt my knee. A stranger helped me and took me to the hospital. Since then, I always check the weather forecast before going out.
 
+memorable: me mô rờ bồ
 suddenly: sắt đừn ly
 forecast: dự báo pho cát
 
+! Experience
+* My most memorable experience at the park happened last weekend. I was jogging near a lake in a park close to my house, but I was wearing shoes that were not suitable for jogging. I kept paying attention to my shoes, stumbled, and fell down, hurting my knee. My phone was broken, so I couldn’t call anyone and had to go home by myself. Since then, I always make sure to wear the right shoes when I jog.
+
+stumbled: vấp ngã stăm bồ
+
 ! Part description (+ holiday)
 * I usually go for a walk in a park near my house. I often listen to music, so I prefer going alone because it’s hard to focus when I go with others. The park has many trees and a lake, so the air is very fresh. There are also exercise facilities and jogging tracks, which help people relieve stress. I usually jog on a small path near the lake, and listening to music while enjoying the scenery makes me feel relaxed and energized.
-
-! Experience
-* The most memorable experience I had at the park happened last weekend. I was jogging near a lake in a park close to my house, but I was wearing shoes that were not suitable for jogging. I kept paying attention to my shoes, stumbled, and fell down, hurting my knee. My phone was broken, so I couldn’t call anyone and had to go home by myself. Since then, I always make sure to wear the right shoes when I jog.
 
 ! Bought book dress
 * It’s important to wear comfortable and light clothes when jogging. I usually wear functional clothes because they absorb sweat well and keep me cool. They also stretch easily, so I can exercise comfortably. I think choosing the right shoes is the most important thing. If the shoes are not comfortable, my feet or ankles can hurt. That’s why I prefer soft and light sneakers when I jog.
