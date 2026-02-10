@@ -1,5 +1,13 @@
 /*
 
+! Part description (+ holiday)
+* I usually go for a walk in a park near my house. I often listen to music, so I prefer going alone because it’s hard to focus when I go with others. The park has many trees and a lake, so the air is very fresh. There are also exercise facilities and jogging tracks, which help people relieve stress. I usually jog on a small path near the lake, and listening to music while enjoying the scenery makes me feel relaxed and energized.
+
+facilities: cơ sở phơ ci li ti
+track: đường, theo dõi trák
+relieve: dịu đi ri li vờ
+energized: tràn đầy sinh lực en nơ zai
+
 ! what do you take before you go for a walk
 * Before jogging, I change into comfortable and light clothes so I can move easily and absorb sweat. I think choosing the right shoes is the most important thing because uncomfortable shoes can hurt my feet or ankles. When I jog in the park, I usually listen to music for about an hour. After that, I sit on a bench, eat some snacks, and drink water to rest and regain energy.
 
@@ -19,13 +27,10 @@ memorable: me mô rờ bồ
 suddenly: sắt đừn ly
 forecast: dự báo pho cát
 
-! Experience
+! Experience ?????
 * My most memorable experience at the park happened last weekend. I was jogging near a lake in a park close to my house, but I was wearing shoes that were not suitable for jogging. I kept paying attention to my shoes, stumbled, and fell down, hurting my knee. My phone was broken, so I couldn’t call anyone and had to go home by myself. Since then, I always make sure to wear the right shoes when I jog.
 
 stumbled: vấp ngã stăm bồ
-
-! Part description (+ holiday)
-* I usually go for a walk in a park near my house. I often listen to music, so I prefer going alone because it’s hard to focus when I go with others. The park has many trees and a lake, so the air is very fresh. There are also exercise facilities and jogging tracks, which help people relieve stress. I usually jog on a small path near the lake, and listening to music while enjoying the scenery makes me feel relaxed and energized.
 
 ! Bought book dress
 * It’s important to wear comfortable and light clothes when jogging. I usually wear functional clothes because they absorb sweat well and keep me cool. They also stretch easily, so I can exercise comfortably. I think choosing the right shoes is the most important thing. If the shoes are not comfortable, my feet or ankles can hurt. That’s why I prefer soft and light sneakers when I jog.
