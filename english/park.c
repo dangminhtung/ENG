@@ -16,18 +16,18 @@ absorb sweat: hấp thụ mồ hôi
 ankles: mắt cá chân ang cồ
 
 ! How did you first start going to the park
-* I don’t remember the first time I went to the park, but I think I started going there when I was in high school because of my mom. At that time, I was under a lot of stress from studying, and I often felt tired and had headaches. I asked my mom for advice, and she suggeste I should exercise more. So I started jogging in a park near my house every evening. After about a month, I felt healthier and much less stressed, so I still go to the park to exercise regularly.
+* I don’t remember the first time I went to the park, but I think I started going there when I was in high school because of my mom. At that time, I was under a lot of stress from studying, and I often felt tired and had headaches. I asked my mom for advice, and she suggested I should exercise more. So I started jogging in a park near my house every evening. After about a month, I felt healthier and much less stressed, so I still go to the park to exercise regularly.
 
 headaches: hét đệc
 
 ! experience(weather)
-* My most memorable experience at the park happened a few months ago. I was jogging in my favorite park when it suddenly started raining heavily. I didn’t check the weather forecast and didn’t bring an umbrella, so I got completely wet. The road was slippery and dark, I fell and hurt my knee. A stranger helped me and took me to the hospital. Since then, I always check the weather forecast before going out.
+* My most memorable experience at the park happened a few months ago. I was jogging in my favorite park when it suddenly started raining heavily. I didn’t check the weather forecast and didn’t bring an umbrella, so I got completely wet. Because the road was dark and slippery, I accidentally slipped while running home and fell down. I hit my knee on the ground and felt a sharp pain. After that, i slowly walked back home, but luckily, a stranger helped me get home. Since then, I always check the weather forecast before going out.
 
 memorable: me mô rờ bồ
 suddenly: sắt đừn ly
 forecast: dự báo pho cát
 
-! Experience ?????
+! Experience
 * My most memorable experience at the park happened last weekend. I was jogging near a lake in a park close to my house, but I was wearing shoes that were not suitable for jogging. I kept paying attention to my shoes, stumbled, and fell down, hurting my knee. My phone was broken, so I couldn’t call anyone and had to go home by myself. Since then, I always make sure to wear the right shoes when I jog.
 
 stumbled: vấp ngã stăm bồ
