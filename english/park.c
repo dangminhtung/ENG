@@ -21,16 +21,15 @@ ankles: mắt cá chân ang cồ
 headaches: hét đệc
 
 ! experience(weather)
-* My most memorable experience at the park happened a few months ago. I was jogging in my favorite park when it suddenly started raining heavily. I didn’t check the weather forecast and didn’t bring an umbrella, so I got completely wet. Because the road was dark and slippery, I accidentally slipped while running home and fell down. I hit my knee on the ground and felt a sharp pain. After that, i slowly walked back home, but luckily, a stranger helped me get home. Since then, I always check the weather forecast before going out.
+* My most memorable experience at the park happened a few months ago. I was jogging in my favorite park when it suddenly started raining heavily. I didn’t check the weather forecast and didn’t bring an umbrella, so I got completely wet. Because the road was dark and slippery, I accidentally slipped while running home and fell down. I hit my knee on the ground and felt a sharp pain. My phone was broken so I couldn't anyone and I had to go home by myself. Since then, I always check the weather forecast before going out.
 
 memorable: me mô rờ bồ
 suddenly: sắt đừn ly
 forecast: dự báo pho cát
 
 ! Experience
-* My most memorable experience at the park happened last weekend. I was jogging near a lake in a park close to my house, but I was wearing shoes that were not suitable for jogging. I kept paying attention to my shoes, stumbled, and fell down, hurting my knee. My phone was broken, so I couldn’t call anyone and had to go home by myself. Since then, I always make sure to wear the right shoes when I jog.
+* My most memorable experience at the park happened last weekend. I was jogging near a lake in a park close to my house, but I was wearing shoes that were not suitable for jogging. Because I kept paying attention to my shoes, I accidentally slipped while while running and fell down.I hit my knee on the ground and felt a sharp pain. My phone was broken so I couldn't call anyone and I had to go home by myself. Since then, I always make sure to wear the right shoes when I jog.
 
-stumbled: vấp ngã stăm bồ
 
 ! Bought book dress
 * It’s important to wear comfortable and light clothes when jogging. I usually wear functional clothes because they absorb sweat well and keep me cool. They also stretch easily, so I can exercise comfortably. I think choosing the right shoes is the most important thing. If the shoes are not comfortable, my feet or ankles can hurt. That’s why I prefer soft and light sneakers when I jog.
