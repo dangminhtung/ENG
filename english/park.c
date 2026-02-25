@@ -41,4 +41,8 @@ stretchy : co dãn stress chy
 
 ! Frequent road changes
 * The road I usually use has changed a lot. In the past, it was narrow but quiet, and there were many tall trees, so it was cool and comfortable. I used to walk there in the evening and sit with my friends, talking about our day or movies. Now the road is wider, but the trees are gone, and there is a lot of dust and traffic. It feels more dangerous, so I really miss the comfortable atmosphere of the old road.
+
+narrow: chật hẹp ne râu
+dust: bụi đởt
+
 */
