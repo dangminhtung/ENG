@@ -37,6 +37,7 @@ forecast: dự báo pho cát
 * When I exercise, sportswear is very important. In the past, I just wore shorts and a T-shirt, but they didn’t absorb sweat, so they were uncomfortable. Now I wear sportswear because they absorb sweat well and stretchy. I also wear soft and light sneakers to protect my feet, so they don’t hurt even after exercising for a long time.
 
 stretchy : co dãn stress chy
+exercise : ếc sơ sai
 
 
 ! Frequent road changes
