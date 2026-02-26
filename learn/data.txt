@@ -1,0 +1,14 @@
+i want to ask about DVR and PVR schedule of telos
+can you please share it with me
+
+Could you please update current process?
+
+Are there any log for this case? if so, please send them to me
+
+it seems issue due to A18 using host_bl1
+could you try again with host_bl1 for model A18 
+
+BL2 signature is also affected by PQC, but I remove PQC for telos in my cl 
+so i think it work normally
+
+on the firt try, did you wait for the device to boot successfully? or did you enter download mode immediately?
