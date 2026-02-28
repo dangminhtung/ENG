@@ -1,7 +1,7 @@
 /*
 
 ! Part description (+ holiday)
-* I usually go for a walk in a park near my house. I often listen to music, so I prefer going alone because it’s hard to focus when I go with others. The park has many trees and a lake, so the air is very fresh. There are also exercise facilities and jogging tracks, which help people relieve stress. I usually jog on a small path near the lake, and listening to music while enjoying the scenery makes me feel relaxed and energized.
+* I usually go for a walk in a park near my house. I often listen to music, so I prefer going alone because it’s hard to focus when I go with others. The park has many trees and a lake, so the air is very fresh. There are also exercise facilities and jogging tracks, which help people relieve stress. I usually jog on a small path near the lake and listen to music while enjoying the view, It helps me feel relaxed and energized.
 
 facilities: cơ sở phơ ci li ti
 track: đường, theo dõi trák
