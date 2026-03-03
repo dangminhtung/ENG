@@ -20,5 +20,8 @@ genre : zan n rờ
 chathy: dễ nhờ cát chy
 significant: có ý nghĩa sig ni fo cừn
 
+! what new electronisc gadgets or equipment are people who like music interested in these days? what new products excite them and why?
+
+* Use their smartphone these days, music lovers can stream music easily and enjoy the convenience of searching for songs, viewing lyrics, and listening to the same tracks randomly with just a few taps. They are particularly interested in sound quality improvements and bluetooth devices that connect seamlessly to their smartphones, eliminating the need for wires and providing a more convenient listening experience. Wireless headphones and portable speakers have become one of the hottest devices that excite music enthusiasts, offering freedom of movement while maintaining exellent audio performance.
 
 */
