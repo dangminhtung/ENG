@@ -9,11 +9,10 @@
 * Whenever I have free time, I enjoy listening to fast pop music. At home, I use my computer with a good audio system, so the sound is great and makes me feel like I’m in a club. When I go out, I usually listen to music on my smartphone with headphones, which helps me concentrate. It’s very convenient because I can listen anytime and anywhere.
 
 ! Change
-* I love listening to music. When I was young, I liked fast songs like K-pop because they made me feel excited. But when I entered high school, I started to enjoy ballads because my friend always listened to them. Ballad songs make me feel calm and help me relax after a long day. These days, I like to listen to calm music in the morning to start my day peacefully.
+* I first became interested in music when I was young child and got into pop music through a famous pop group tjay was creating a sensative worldwide. I used to listen to their songs every day and learned all the lyrics by heart. But when I entered high school, I started to enjoy ballads because my friend always listened to them. Ballad songs make me feel calm and help me relax after a long day. These days, I like to listen to calm music in the morning to start my day peacefully.
 
 ! What kinds of music do you listen to? Who are some of your favorite musicians or composers?
 ! Pick 2 different types of music or cmoposers. Describe and compare.
-
 * When it come to music, I enjoy listening to Bruno Mars and TWICE. Bruno Mars is a very successful singer. He has won many music awards. Many of his pop and R&B songs are catchy and have been very popular on the charts. TWICE is a successful K-POP girl group with fans all over the world, known for their catchy and trendy music. Both TWICE and Bruno Mars are quite different in terms of genre and style, but both have achieved significant success in the music industry. these are the singers I enjoy listening to.
 
 genre : zan n rờ
@@ -21,7 +20,6 @@ chathy: dễ nhờ cát chy
 significant: có ý nghĩa sig ni fo cừn
 
 ! what new electronisc gadgets or equipment are people who like music interested in these days? what new products excite them and why?
-
 * Today, many people use their smartphones to listen to music. They can easily stream songs, search for music, read lyrics, and play songs with just a few taps. Many music lovers also care about good sound quality and like using Bluetooth devices that connect to their phones without wires. Wireless headphones and portable speakers are very popular because they make listening to music more convenient and allow people to move freely while enjoying good sound.
 
 ! Could you think back to a particularly memorable time when you heard live muslc? When was it? Where were you? Who were you with? What happened that made that performance so memorable?
