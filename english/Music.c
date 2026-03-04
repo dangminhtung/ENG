@@ -22,6 +22,9 @@ significant: có ý nghĩa sig ni fo cừn
 
 ! what new electronisc gadgets or equipment are people who like music interested in these days? what new products excite them and why?
 
-* Use their smartphone these days, music lovers can stream music easily and enjoy the convenience of searching for songs, viewing lyrics, and listening to the same tracks randomly with just a few taps. They are particularly interested in sound quality improvements and bluetooth devices that connect seamlessly to their smartphones, eliminating the need for wires and providing a more convenient listening experience. Wireless headphones and portable speakers have become one of the hottest devices that excite music enthusiasts, offering freedom of movement while maintaining exellent audio performance.
+* Today, many people use their smartphones to listen to music. They can easily stream songs, search for music, read lyrics, and play songs with just a few taps. Many music lovers also care about good sound quality and like using Bluetooth devices that connect to their phones without wires. Wireless headphones and portable speakers are very popular because they make listening to music more convenient and allow people to move freely while enjoying good sound.
 
+! Could you think back to a particularly memorable time when you heard live muslc? When was it? Where were you? Who were you with? What happened that made that performance so memorable?
+
+* Going to a concert a few years ago was an unforgettable experience. I watched the British rock band Coldplay perform live. The event was sold out and held in a large concert hall, and the atmosphere was incredible from the moment the show began. The crowd screamed with excitement and sang along to every song, which made me feel connected to everyone there. I had a great time that night with thousands of passionate fans, and it is still one of the most memorable concerts I have ever attended. It was definitely worth the money.
 */
