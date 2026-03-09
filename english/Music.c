@@ -11,7 +11,7 @@
 concentrate: tập trung con sừn trệt
 
 ! Change
-* I have been a huge fan of music since I was little, and it all started when i discovered a famous pop band. I used to listen to their songs every day and learned all the lyrics by heart. But when I entered high school, I started to enjoy ballads because my friend always listened to them. Ballad songs make me feel calm and help me relax after a long day. These days, I like to listen to calm music in the morning to start my day peacefully.
+* I have been a huge fan of music since I was little, and it all started when i discovered a famous pop band. I used to listen to their songs every day and learned all the lyrics by heart. But when I entered high school, I started to enjoy ballads because my friend always listened to them. Ballad songs make me feel calm and help me relax after a long day. Now, I like listening to calm music in the morning to start my day peacefully.
 
 ! What kinds of music do you listen to? Who are some of your favorite musicians or composers?
 ! Pick 2 different types of music or cmoposers. Describe and compare.
