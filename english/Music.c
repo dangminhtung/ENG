@@ -13,6 +13,7 @@ concentrate: tập trung con sừn trệt
 ! Change
 * I have been a huge fan of music since I was little, and it all started when I discovered a famous pop band. I used to listen to their songs every day and learned all the lyrics by heart. But when I entered high school, I started to enjoy ballads because my friend always listened to them. Ballads make me feel calm and help me relax after a long day. Now, I like listening to calm music in the morning to start my day peacefully.
 
+lyric: li rịc
 relax: rì lác
 calm : com
 
