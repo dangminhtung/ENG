@@ -19,11 +19,14 @@ calm : com
 
 ! What kinds of music do you listen to? Who are some of your favorite musicians or composers?
 ! Pick 2 different types of music or cmoposers. Describe and compare.
-* When it come to music, I enjoy listening to Bruno Mars and TWICE. Bruno Mars is a very successful singer. He has won many music awards. Many of his pop and R&B songs are catchy and have been very popular on the charts. TWICE is a successful K-POP girl group with fans all over the world, known for their catchy and trendy music. Both TWICE and Bruno Mars are quite different in terms of genre and style, but both have achieved significant success in the music industry. these are the singers I enjoy listening to.
+* When it come to music, I enjoy listening to Bruno Mars and TWICE. First, Bruno Mars is a very successful singer. He has won many music awards. Many of his pop and R&B songs are catchy and have been very popular on the charts. On the other hand, TWICE is a successful K-POP girl group with fans all over the world, known for their catchy and trendy music. Compare the two, they have different styles, but they both make massive hits all over the world. Bruno is more about the 'groove', while TWICE is about 'energy'. I enjoy listening to both depending on my mood.
 
 genre : zan n rờ
 chathy: dễ nhờ cát chy
-significant: có ý nghĩa sig ni fo cừn
+charts: biểu đồ cha ts
+massive: to lớn ma sịp
+groove: nhịp điệu gru vờ
+mood: mút
 
 ! what new electronisc gadgets or equipment are people who like music interested in these days? what new products excite them and why?
 * Today, many people use their smartphones to listen to music. They can easily stream songs, search for music, read lyrics, and play songs with just a few taps. Many music lovers also care about good sound quality and like using Bluetooth devices that connect to their phones without wires. Wireless headphones and portable speakers are very popular because they make listening to music more convenient and allow people to move freely while enjoying good sound.
