@@ -1,4 +1,4 @@
-use std::io::{self, stdin};
+use std::io::{self};
 
 fn main() {
     let mut a = String::new();
