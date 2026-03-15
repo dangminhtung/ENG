@@ -1,0 +1,1232 @@
+{
+  "sentences": [
+    {
+      "vi": "Bố mẹ tôi cho tôi đi đến đó",
+      "ref": "My parents let me go there"
+    },
+    {
+      "vi": "Anh ấy không còn là bạn của tôi nữa",
+      "ref": "He's no longer my friend"
+    },
+    {
+      "vi": "Bạn vẫn không muốn đi sao?",
+      "ref": "Do you still not want to go"
+    },
+    {
+      "vi": "Tại sao chúng ta lại lắng nghe họ",
+      "ref": "Why are we listening to them"
+    },
+    {
+      "vi": "Tôi là người mới bắt đầu học tiếng Pháp",
+      "ref": "I'm a beginner in French"
+    },
+    {
+      "vi": "Anh ấy đã từng tràn đầy niềm vui",
+      "ref": "He used to be full of joy"
+    },
+    {
+      "vi": "Thật sự rất khó để lựa chọn",
+      "ref": "It's really hard to choose"
+    },
+    {
+      "vi": "Tôi muốn bạn bị đưa ra công lý",
+      "ref": "I want you brought to justice"
+    },
+    {
+      "vi": "Tom ăn nhiều hơn tôi",
+      "ref": "Tom ate more than I did"
+    },
+    {
+      "vi": "Bạn không cần phải đến đây",
+      "ref": "You do not have to come here"
+    },
+    {
+      "vi": "Nói với họ rằng đó là ưu tiên",
+      "ref": "Tell them it's a priority"
+    },
+    {
+      "vi": "Tôi nghĩ rằng Tom đã bị lạc",
+      "ref": "I thought that Tom was lost"
+    },
+    {
+      "vi": "Anh ấy sẽ làm bất cứ điều gì anh ấy có thể",
+      "ref": "He'll do whatever he can"
+    },
+    {
+      "vi": "Chúng tôi đã đến nơi nhìn thấy biển",
+      "ref": "We came in view of the sea"
+    },
+    {
+      "vi": "Bạn phải giúp tôi",
+      "ref": "You're supposed to help me"
+    },
+    {
+      "vi": "Tôi không nhìn họ",
+      "ref": "I wasn't looking at them"
+    },
+    {
+      "vi": "Tôi sẽ để điều đó cho bạn",
+      "ref": "I'll leave that up to you"
+    },
+    {
+      "vi": "Tại sao cô ấy lại làm thế với chúng ta?",
+      "ref": "Why is she doing this to us"
+    },
+    {
+      "vi": "Chúng ta có thể nói chuyện trực tiếp với anh ấy không?",
+      "ref": "Can we talk to him directly"
+    },
+    {
+      "vi": "Cúm đang lan rộng khắp nơi",
+      "ref": "The flu is going around now"
+    },
+    {
+      "vi": "Bạn đã từng đến Anh chưa?",
+      "ref": "Have you ever been to Britain"
+    },
+    {
+      "vi": "Tại sao bạn lại nói thế với tôi?",
+      "ref": "Why would you say that to me"
+    },
+    {
+      "vi": "Bây giờ là tám giờ kém mười lăm",
+      "ref": "It's quarter to eight now"
+    },
+    {
+      "vi": "Tôi vẫn giữ liên lạc với Tom",
+      "ref": "I stay in contact with Tom"
+    },
+    {
+      "vi": "Họ sẽ nghĩ gì tiếp theo",
+      "ref": "What'll they think of next"
+    },
+    {
+      "vi": "Tôi có rất nhiều điều để dạy bạn",
+      "ref": "I have so much to teach you"
+    },
+    {
+      "vi": "Tôi có rất nhiều điều để dạy bạn",
+      "ref": "I have so much to teach you"
+    },
+    {
+      "vi": "Hãy cẩn thận với những gì bạn nói",
+      "ref": "Be careful with what you say"
+    },
+    {
+      "vi": "Hôm nay là một ngày căng thẳng",
+      "ref": "It's been a stressful day"
+    },
+    {
+      "vi": "Chúng ta nên đi ngay bây giờ",
+      "ref": "We'd better get going now"
+    },
+    {
+      "vi": "Bạn có thể cẩn thận với điều đó không?",
+      "ref": "Could you be careful with that"
+    },
+    {
+      "vi": "Chúng ta hãy đi vào khoảng năm giờ",
+      "ref": "Let's go at around five"
+    },
+    {
+      "vi": "Vòng cổ của con chó màu đỏ",
+      "ref": "The dog's collar is red"
+    },
+    {
+      "vi": "Bạn có thể cho chúng tôi biết đó là gì không?",
+      "ref": "Can you tell us what it was"
+    },
+    {
+      "vi": "Tôi bắt đầu tin vào điều đó",
+      "ref": "I'm beginning to believe it"
+    },
+    {
+      "vi": "Họ đang đình công vì tiền",
+      "ref": "They are on strike for money"
+    },
+    {
+      "vi": "Lấy bao nhiêu tùy thích",
+      "ref": "Take as much as you want to"
+    },
+    {
+      "vi": "Chúng tôi không thể đáp ứng nhu cầu của bạn",
+      "ref": "We cannot meet your needs"
+    },
+    {
+      "vi": "Tôi sẽ hoàn thành một số công việc",
+      "ref": "I'll get some work done"
+    },
+    {
+      "vi": "Chúng tôi biết điều đó không đúng",
+      "ref": "We know that isn't true"
+    },
+    {
+      "vi": "Ken là người cao hơn trong số họ",
+      "ref": "Ken is the taller of them"
+    },
+    {
+      "vi": "Tôi cảm thấy bắt buộc phải làm điều đó",
+      "ref": "I feel compelled to do that"
+    },
+    {
+      "vi": "Tôi đã viết một lá thư bằng tiếng Pháp",
+      "ref": "I wrote a letter in French"
+    },
+    {
+      "vi": "Làm sao nó có thể đến mức này",
+      "ref": "How can it have come to this"
+    },
+    {
+      "vi": "Bạn có thể giúp tôi bắt đầu không?",
+      "ref": "Can you help me get started"
+    },
+    {
+      "vi": "Bạn không nên đến đây",
+      "ref": "You should not have come here"
+    },
+    {
+      "vi": "Chúng tôi thực sự chưa bao giờ đạt được điều đó",
+      "ref": "We never actually got to that"
+    },
+    {
+      "vi": "Ông ấy yêu cầu chúng ta im lặng",
+      "ref": "He asked that we be silent"
+    },
+    {
+      "vi": "Tôi không được lựa chọn",
+      "ref": "I didn't get to choose"
+    },
+    {
+      "vi": "Còn lại một ít nước",
+      "ref": "There is a little water left"
+    },
+    {
+      "vi": "Tom đang nói chuyện điện thoại",
+      "ref": "Tom is talking on the phone"
+    },
+    {
+      "vi": "Tôi đề nghị giúp anh ấy chuyển nhà",
+      "ref": "I offered to help him move"
+    },
+    {
+      "vi": "Bạn đã vào nghề phát thanh như thế nào?",
+      "ref": "How did you get into radio"
+    },
+    {
+      "vi": "Tôi phát ngán với những lời gợi ý của anh",
+      "ref": "I'm sick of your hints"
+    },
+    {
+      "vi": "Chúng tôi đến đây để tìm bạn",
+      "ref": "We came here looking for you"
+    },
+    {
+      "vi": "Tôi thực sự tức giận với chính mình",
+      "ref": "I was really mad at myself"
+    },
+    {
+      "vi": "Bạn có cái này vừa với cỡ của tôi không?",
+      "ref": "Do you have this in my size"
+    },
+    {
+      "vi": "Không phải là vấn đề lớn lắm đâu",
+      "ref": "It's not that big a deal"
+    },
+    {
+      "vi": "Anh ấy đã lên đường đến Mỹ",
+      "ref": "He has set off for America"
+    },
+    {
+      "vi": "Tom đã có thể tìm được việc làm",
+      "ref": "Tom was able to find work"
+    },
+    {
+      "vi": "Bạn đã bao giờ nói chuyện với anh ấy chưa?",
+      "ref": "Have you ever spoken to him"
+    },
+    {
+      "vi": "Có điều nào trong số đó nghe có vẻ tệ không?",
+      "ref": "Does any of that sound bad"
+    },
+    {
+      "vi": "Tôi nên đi chuẩn bị thôi",
+      "ref": "I'd better go get ready"
+    },
+    {
+      "vi": "Điều này có làm bạn phấn khích không?",
+      "ref": "Is this getting you going too"
+    },
+    {
+      "vi": "Thậm chí đó không phải là một lựa chọn",
+      "ref": "That's not even an option"
+    },
+    {
+      "vi": "Tôi đã cố gắng để trung thực",
+      "ref": "I was trying to be truthful"
+    },
+    {
+      "vi": "Tom đang tìm một chiếc thắt lưng",
+      "ref": "Tom is looking for a belt"
+    },
+    {
+      "vi": "Nó mở cửa suốt ngày đêm phải không?",
+      "ref": "Is it open round the clock"
+    },
+    {
+      "vi": "Ken chắc hẳn đã về nhà rồi",
+      "ref": "Ken must be home by now"
+    },
+    {
+      "vi": "Ngôi nhà hiện đang được xây dựng",
+      "ref": "The house is being built now"
+    },
+    {
+      "vi": "Mọi chuyện đều do công ty quyết định",
+      "ref": "It's all up with the firm"
+    },
+    {
+      "vi": "Băng này sắp nứt rồi",
+      "ref": "This ice is going to crack"
+    },
+    {
+      "vi": "Nếu nó có ý nghĩa nhiều như vậy với bạn",
+      "ref": "If it means that much to you"
+    },
+    {
+      "vi": "Bạn có chắc cô ấy có thể làm được không?",
+      "ref": "Are you sure she can do it"
+    },
+    {
+      "vi": "Tôi nghĩ tôi có thời gian đến 2:30",
+      "ref": "I thought I had until 2:30"
+    },
+    {
+      "vi": "Cô ấy hát hay khi còn nhỏ",
+      "ref": "She sang well as a child"
+    },
+    {
+      "vi": "Những gì họ làm tiếp theo là tệ",
+      "ref": "What they did next was bad"
+    },
+    {
+      "vi": "Tối qua bạn có ở nhà không?",
+      "ref": "Were you at home last night"
+    },
+    {
+      "vi": "Tom rất quan trọng với tôi",
+      "ref": "Tom is very important to me"
+    },
+    {
+      "vi": "Tôi chỉ uống một ly thôi",
+      "ref": "I'll just have one drink"
+    },
+    {
+      "vi": "Nó sẽ trả giá sau này",
+      "ref": "It'll pay off later on"
+    },
+    {
+      "vi": "Bạn không biết tôi là ai",
+      "ref": "You have no idea who I am"
+    },
+    {
+      "vi": "Tôi cần phải có mặt ở đó lúc 2:30",
+      "ref": "I need to be there by 2:30"
+    },
+    {
+      "vi": "Điều đó nhắc nhở bạn về điều gì?",
+      "ref": "What does that remind you of"
+    },
+    {
+      "vi": "Đội nào có khả năng giành chiến thắng",
+      "ref": "Which team is likely to win"
+    },
+    {
+      "vi": "Mary đang làm người mẫu",
+      "ref": "Mary is working as a model"
+    },
+    {
+      "vi": "Chúng tôi không nghe thấy gì cả",
+      "ref": "We don't hear a thing"
+    },
+    {
+      "vi": "Tôi vừa mới sợ chết khiếp",
+      "ref": "I just got scared to death"
+    },
+    {
+      "vi": "Tom sẽ ở đây lúc 2:30",
+      "ref": "Tom will be here by 2:30"
+    },
+    {
+      "vi": "Tôi có phải xếp hàng không?",
+      "ref": "Do I have to stand in line"
+    },
+    {
+      "vi": "Cậu bé này có vóc dáng đẹp",
+      "ref": "This boy is in fine shape"
+    },
+    {
+      "vi": "Tôi có rất nhiều việc phải làm",
+      "ref": "I have lots of things to do"
+    },
+    {
+      "vi": "Bạn có thể xé hộp ra",
+      "ref": "You can tear the box open"
+    },
+    {
+      "vi": "Đó là nơi chúng ta đã ở ngày hôm nay",
+      "ref": "That's where we were today"
+    },
+    {
+      "vi": "Bạn sẽ an toàn hơn khi ở cùng tôi",
+      "ref": "You'll be safer with me"
+    },
+    {
+      "vi": "Tom đang hấp hối trên giường",
+      "ref": "Tom is dying in his bed"
+    },
+    {
+      "vi": "Chính những người khạc nhổ vào lửa",
+      "ref": "The very spits at the fire"
+    },
+    {
+      "vi": "Tôi vừa kịp giờ vào lớp",
+      "ref": "I was just in time for class"
+    },
+    {
+      "vi": "Nó không tốt cho sức khỏe của bạn",
+      "ref": "It isn't healthy for you"
+    },
+    {
+      "vi": "Tại sao bạn phải làm điều đó?",
+      "ref": "Why would you have to do that"
+    },
+    {
+      "vi": "Chỉ cần bảo họ đừng lo lắng",
+      "ref": "Just tell them not to worry"
+    },
+    {
+      "vi": "Bạn có thực sự thích làm điều đó không?",
+      "ref": "Do you really like doing that"
+    },
+    {
+      "vi": "Bố mẹ của cô gái là ai?",
+      "ref": "Who are the girl's parents"
+    },
+    {
+      "vi": "Tôi không biết phải nói gì",
+      "ref": "I'm not sure what to say"
+    },
+    {
+      "vi": "Điều đó sẽ không bao giờ xảy ra",
+      "ref": "It's never going to happen"
+    },
+    {
+      "vi": "Lúc đó tôi không biết cô ấy",
+      "ref": "I didn't know her then"
+    },
+    {
+      "vi": "Tôi đã từng làm điều tương tự",
+      "ref": "I used to do the same thing"
+    },
+    {
+      "vi": "Tôi biết tôi đang bị theo dõi",
+      "ref": "I know I'm being watched"
+    },
+    {
+      "vi": "Chúng ta phải tuân thủ luật pháp",
+      "ref": "We must abide by the law"
+    },
+    {
+      "vi": "Bạn đã đọc báo cáo khi nào?",
+      "ref": "When did you read the report"
+    },
+    {
+      "vi": "Tôi chưa bao giờ hòa hợp với họ",
+      "ref": "I never got along with them"
+    },
+    {
+      "vi": "Tôi tự hỏi Tom sẽ làm gì",
+      "ref": "I wonder what Tom will do"
+    },
+    {
+      "vi": "Cô ấy là người có gia đình",
+      "ref": "She's the one with a family"
+    },
+    {
+      "vi": "Cái cốc này được làm bằng sắt",
+      "ref": "This mug is made of iron"
+    },
+    {
+      "vi": "Chúng tôi nghĩ chúng tôi có thể xử lý được điều đó",
+      "ref": "We think we can handle that"
+    },
+    {
+      "vi": "Cô ấy đã không nhận được công việc",
+      "ref": "She didn't get the job"
+    },
+    {
+      "vi": "Tom đeo mặt nạ phòng độc",
+      "ref": "Tom put on a gas mask"
+    },
+    {
+      "vi": "Anh ta đã đi theo con đường xấu",
+      "ref": "He has taken on bad ways"
+    },
+    {
+      "vi": "Anh ấy đã tự mình kể cho tôi nghe về điều đó",
+      "ref": "He told me about it himself"
+    },
+    {
+      "vi": "Tại sao bạn không nói thế?",
+      "ref": "Why didn't you say so"
+    },
+    {
+      "vi": "Cô ấy đang tiến triển tốt",
+      "ref": "She's getting on all right"
+    },
+    {
+      "vi": "Tom vẫn còn việc làm chứ?",
+      "ref": "Does Tom still have a job"
+    },
+    {
+      "vi": "Cô ấy giới thiệu người phụ nữ với tôi",
+      "ref": "She presented the lady to me"
+    },
+    {
+      "vi": "Cô ấy hẳn đang giận tôi",
+      "ref": "She must be angry with me"
+    },
+    {
+      "vi": "Thời gian chính xác bây giờ là ba giờ",
+      "ref": "The exact time is three now"
+    },
+    {
+      "vi": "Tôi nên đi cùng bạn",
+      "ref": "I should've come with you"
+    },
+    {
+      "vi": "Anh ấy đi giày trở lại",
+      "ref": "He put his boots back on"
+    },
+    {
+      "vi": "Cô ấy đang đợi bạn bây giờ",
+      "ref": "She's waiting for you now"
+    },
+    {
+      "vi": "Tôi đã mời cô ấy đi xem phim",
+      "ref": "I invited her to the movies"
+    },
+    {
+      "vi": "Tại sao bạn mua một bông hoa?",
+      "ref": "Why did you buy a flower"
+    },
+    {
+      "vi": "Ít nhất hãy nói rằng bạn xin lỗi",
+      "ref": "At least say you are sorry"
+    },
+    {
+      "vi": "Tom đang đi dạo",
+      "ref": "Tom is out taking a walk"
+    },
+    {
+      "vi": "Tôi có nghi ngờ về cô ấy",
+      "ref": "I have my doubts about her"
+    },
+    {
+      "vi": "Anh ấy thích tất cả những gì ngọt ngào",
+      "ref": "He likes all that is sweet"
+    },
+    {
+      "vi": "Tôi có giống một thợ sửa ống nước không?",
+      "ref": "Do I look like a plumber"
+    },
+    {
+      "vi": "Thật khó để giữ bình tĩnh",
+      "ref": "It's hard to stay calm"
+    },
+    {
+      "vi": "Hôm nay là một ngày rất u ám",
+      "ref": "It's a very gloomy day"
+    },
+    {
+      "vi": "Tom bảo con chó ở lại",
+      "ref": "Tom told the dog to stay"
+    },
+    {
+      "vi": "Bạn có thể giúp tôi di chuyển cái này được không?",
+      "ref": "Would you help me move this"
+    },
+    {
+      "vi": "Tôi vừa bán xe của tôi",
+      "ref": "I've just sold my car"
+    },
+    {
+      "vi": "Tôi thấy anh đang theo dõi họ",
+      "ref": "I saw you spying on them"
+    },
+    {
+      "vi": "Anh ấy có thể tự mình làm điều đó",
+      "ref": "He may do that on his own"
+    },
+    {
+      "vi": "Nhiều người đã mất việc",
+      "ref": "Many people were out of work"
+    },
+    {
+      "vi": "Tom sẽ chờ đợi",
+      "ref": "Tom is going to be waiting"
+    },
+    {
+      "vi": "Tại sao lại phải là họ",
+      "ref": "Why did it have to be them"
+    },
+    {
+      "vi": "Người đàn ông kia là ai vậy?",
+      "ref": "Who's that man over there"
+    },
+    {
+      "vi": "Không ai có thể ngăn cản chúng ta",
+      "ref": "Nobody is going to stop us"
+    },
+    {
+      "vi": "Tôi không gửi cho cô ấy",
+      "ref": "I didn't send for her"
+    },
+    {
+      "vi": "Nếu có bất kỳ tổn hại nào xảy đến với cô ấy",
+      "ref": "If any harm comes to her"
+    },
+    {
+      "vi": "Tối nay tôi sẽ ở nhà",
+      "ref": "I'll be at home tonight"
+    },
+    {
+      "vi": "Tôi thấy vấn đề này dễ giải quyết",
+      "ref": "I found the problem was easy"
+    },
+    {
+      "vi": "Họ hẳn đang đợi bạn",
+      "ref": "They must be waiting for you"
+    },
+    {
+      "vi": "Tom có tình cảm với Mary",
+      "ref": "Tom has a thing for Mary"
+    },
+    {
+      "vi": "Tom bị tù chung thân",
+      "ref": "Tom is in prison for life"
+    },
+    {
+      "vi": "Tại sao anh ấy lại mặc áo choàng?",
+      "ref": "Why is he wearing a cape"
+    },
+    {
+      "vi": "Có vẻ như đó là một ý tưởng hay",
+      "ref": "It seemed like a good idea"
+    },
+    {
+      "vi": "Họ đã làm gì với anh ấy?",
+      "ref": "What've they done to him"
+    },
+    {
+      "vi": "Tại sao lại phải là họ",
+      "ref": "Why did it have to be them"
+    },
+    {
+      "vi": "Tôi chưa bao giờ hòa hợp với anh ta",
+      "ref": "I never got along with him"
+    },
+    {
+      "vi": "Tôi đã không còn lời nào để nói",
+      "ref": "I was at a loss for words"
+    },
+    {
+      "vi": "Tôi nghĩ tôi là người duy nhất",
+      "ref": "I thought I was the only one"
+    },
+    {
+      "vi": "Tôi biết bạn đã làm gì với họ",
+      "ref": "I know what you did to them"
+    },
+    {
+      "vi": "Nó bị sóng đánh tung",
+      "ref": "It is tossed by the waves"
+    },
+    {
+      "vi": "Bạn còn có thể gọi nó là gì nữa?",
+      "ref": "What else would you call it"
+    },
+    {
+      "vi": "Thật lạ khi bạn nói thế",
+      "ref": "It's strange you say that"
+    },
+    {
+      "vi": "Tôi chắc chắn bạn có ý tốt",
+      "ref": "I'm sure you meant well"
+    },
+    {
+      "vi": "Tom và tôi đã có một thỏa thuận",
+      "ref": "Tom and I had an agreement"
+    },
+    {
+      "vi": "Kết quả vẫn còn chưa chắc chắn",
+      "ref": "The result is still in doubt"
+    },
+    {
+      "vi": "Bạn thật tốt bụng khi giúp tôi",
+      "ref": "How kind of you to help me"
+    },
+    {
+      "vi": "Tôi đã quen với việc sống một mình",
+      "ref": "I am used to living alone"
+    },
+    {
+      "vi": "Mary đã trở lại bình thường",
+      "ref": "Mary is back on her feet"
+    },
+    {
+      "vi": "Tôi đã hơi bận rộn",
+      "ref": "I've been kind of busy"
+    },
+    {
+      "vi": "Tom đã thực hiện một nhiệm vụ",
+      "ref": "Tom has been on a mission"
+    },
+    {
+      "vi": "Ông ấy là một vị vua thực thụ",
+      "ref": "He was every inch a king"
+    },
+    {
+      "vi": "Chúng tôi đã cố gắng hết sức",
+      "ref": "We gave it our best shot"
+    },
+    {
+      "vi": "Kế hoạch này đòi hỏi những gì?",
+      "ref": "What does the plan call for"
+    },
+    {
+      "vi": "Bạn có mang theo gì không?",
+      "ref": "Have you got anything with you"
+    },
+    {
+      "vi": "Hãy thật trung thực với chính mình",
+      "ref": "Be so true to thy Self"
+    },
+    {
+      "vi": "Tom và tôi cần nhau",
+      "ref": "Tom and I need each other"
+    },
+    {
+      "vi": "Cả hai chúng ta đều không may mắn",
+      "ref": "We're both out of luck"
+    },
+    {
+      "vi": "Tom nghĩ gì về điều đó?",
+      "ref": "What did Tom think of that"
+    },
+    {
+      "vi": "Đây là loại dây gì vậy?",
+      "ref": "What kind of rope is this"
+    },
+    {
+      "vi": "Chắc chắn Tom đã tham gia vào việc đó",
+      "ref": "Certainly Tom was in on it"
+    },
+    {
+      "vi": "Tôi chưa bao giờ nhìn thấy một người phụ nữ như vậy",
+      "ref": "I never saw such a woman"
+    },
+    {
+      "vi": "Tôi không thể trượt ván",
+      "ref": "I'm not able to skate"
+    },
+    {
+      "vi": "Cô ấy đã ở đây một lúc trước",
+      "ref": "She was here a moment ago"
+    },
+    {
+      "vi": "Sẽ còn bao lâu nữa?",
+      "ref": "How much longer will it be"
+    },
+    {
+      "vi": "Tôi chỉ cần gọi điện thôi",
+      "ref": "I just have to make a call"
+    },
+    {
+      "vi": "Bạn ngồi nhầm ghế rồi",
+      "ref": "You're in the wrong seat"
+    },
+    {
+      "vi": "Đó có phải là những gì bạn nghĩ về tôi không?",
+      "ref": "Is that what you think of me"
+    },
+    {
+      "vi": "Tôi sẽ rất vui khi được làm như vậy",
+      "ref": "I would be happy to do so"
+    },
+    {
+      "vi": "Bạn có ở cùng họ đêm đó không?",
+      "ref": "Were you with them that night"
+    },
+    {
+      "vi": "Tom sẽ đi cùng bạn",
+      "ref": "Tom will be going with you"
+    },
+    {
+      "vi": "Tôi đã hết ý tưởng rồi",
+      "ref": "I've run out of ideas"
+    },
+    {
+      "vi": "Tại sao bạn lại tắt nó đi?",
+      "ref": "Why have you turned it off"
+    },
+    {
+      "vi": "Tôi đang chuyển đến sống với Tom",
+      "ref": "I'm moving in with Tom"
+    },
+    {
+      "vi": "Tôi đã đưa nó cho cô ấy ngày hôm qua",
+      "ref": "I gave it to her yesterday"
+    },
+    {
+      "vi": "Tom muốn tôi bỏ cuộc",
+      "ref": "Tom wants me to give up"
+    },
+    {
+      "vi": "Cuộc họp đã gần kết thúc",
+      "ref": "The meeting was all but over"
+    },
+    {
+      "vi": "Con trai tôi sẽ làm việc",
+      "ref": "My son shall do the work"
+    },
+    {
+      "vi": "Con trai tôi sẽ làm việc",
+      "ref": "My son shall do the work"
+    },
+    {
+      "vi": "Tôi đã lo liệu việc đó rồi",
+      "ref": "I've taken care of that"
+    },
+    {
+      "vi": "Tôi phải giúp thế nào đây?",
+      "ref": "How am I supposed to help"
+    },
+    {
+      "vi": "Tại sao bạn phản đối điều này?",
+      "ref": "Why are you opposed to this"
+    },
+    {
+      "vi": "Thật là một điều khó khăn",
+      "ref": "How difficult a thing it is"
+    },
+    {
+      "vi": "Tôi đã nhờ anh ấy chụp ảnh tôi",
+      "ref": "I had him take my picture"
+    },
+    {
+      "vi": "Tôi đang đi theo hướng khác",
+      "ref": "I'm headed the other way"
+    },
+    {
+      "vi": "Tôi biết bạn đã làm gì",
+      "ref": "I know what you've done"
+    },
+    {
+      "vi": "Bạn đề nghị chúng ta nên làm gì?",
+      "ref": "What do you suggest we do"
+    },
+    {
+      "vi": "Tom làm điều đó với ai?",
+      "ref": "Who does Tom do that with"
+    },
+    {
+      "vi": "Bạn sẽ đi cùng ai?",
+      "ref": "Who will you be coming with"
+    },
+    {
+      "vi": "Tôi không đói lắm",
+      "ref": "I'm not all that hungry"
+    },
+    {
+      "vi": "Anh ấy đối xử với tôi như một đứa trẻ",
+      "ref": "He treats me as a child"
+    },
+    {
+      "vi": "Tôi không lừa dối bạn",
+      "ref": "I'm not cheating on you"
+    },
+    {
+      "vi": "Ở đây quá yên tĩnh",
+      "ref": "It's too quiet in here"
+    },
+    {
+      "vi": "Hãy làm những gì tôi bảo bạn làm",
+      "ref": "Do what I tell you to do"
+    },
+    {
+      "vi": "Có vẻ như đây là kế hoạch",
+      "ref": "This appears to be the plan"
+    },
+    {
+      "vi": "Anh ấy không có tâm trạng",
+      "ref": "He wasn't in the mood"
+    },
+    {
+      "vi": "Bạn sẽ đi lâu không?",
+      "ref": "Will you be gone for long"
+    },
+    {
+      "vi": "Tôi sẽ thẳng thắn với bạn",
+      "ref": "I'll be frank with you"
+    },
+    {
+      "vi": "Bạn đã hoàn thành công việc chưa?",
+      "ref": "Are you through with the work"
+    },
+    {
+      "vi": "Hãy để tôi thử xem",
+      "ref": "Let me have a try at it"
+    },
+    {
+      "vi": "Bạn là điều quan trọng với tôi",
+      "ref": "You are what matters to me"
+    },
+    {
+      "vi": "Nếu tôi không làm điều đó",
+      "ref": "If I hadn't done that"
+    },
+    {
+      "vi": "Đó là chuyện tất nhiên",
+      "ref": "That's a matter of course"
+    },
+    {
+      "vi": "Cô ấy thật vui tính khi ở bên",
+      "ref": "She is amusing to be with"
+    },
+    {
+      "vi": "Không có thời gian để lãng phí",
+      "ref": "There is no time to spare"
+    },
+    {
+      "vi": "Bạn đã định làm điều đó",
+      "ref": "You were planning to do that"
+    },
+    {
+      "vi": "Bạn có khả năng đi đến đó không?",
+      "ref": "Are you likely to go there"
+    },
+    {
+      "vi": "Điều gì khiến bạn hỏi tôi điều đó",
+      "ref": "What made you ask me that"
+    },
+    {
+      "vi": "Anh ấy sợ con chó",
+      "ref": "He is in fear of the dog"
+    },
+    {
+      "vi": "Không có thời gian để bận tâm đến điều này",
+      "ref": "No time to dwell on this"
+    },
+    {
+      "vi": "Làm tổn thương người khác là điều xấu",
+      "ref": "It is bad to hurt others"
+    },
+    {
+      "vi": "Còn điều gì nữa để biết",
+      "ref": "What more is there to know"
+    },
+    {
+      "vi": "Tôi đã nói với Tom là tôi ở đó",
+      "ref": "I told Tom I was there"
+    },
+    {
+      "vi": "Nó đang đi trước tôi",
+      "ref": "It is getting ahead of me"
+    },
+    {
+      "vi": "Gần đến giờ phải đi rồi",
+      "ref": "It's almost time to go"
+    },
+    {
+      "vi": "Có bao nhiêu người trong số các bạn sẽ đi",
+      "ref": "How many of you are going"
+    },
+    {
+      "vi": "Nó làm bạn cảm thấy thế nào",
+      "ref": "How did it make you feel"
+    },
+    {
+      "vi": "Con đường nào là đúng",
+      "ref": "Which way is the right way"
+    },
+    {
+      "vi": "Tôi sẽ đợi cô ấy",
+      "ref": "I'll wait up for her"
+    },
+    {
+      "vi": "Họ đổ lỗi cho tôi",
+      "ref": "They put the blame on me"
+    },
+    {
+      "vi": "Chúng ta gặp ai về điều đó?",
+      "ref": "Who do we see about that"
+    },
+    {
+      "vi": "Bạn muốn chúng tôi làm gì?",
+      "ref": "What would you have us do"
+    },
+    {
+      "vi": "Anh ấy muốn tôi vào đội của anh ấy",
+      "ref": "He wants me on his team"
+    },
+    {
+      "vi": "Tôi mua sắm ở đây mọi lúc",
+      "ref": "I shop here all the time"
+    },
+    {
+      "vi": "Tôi cần cho Tom biết",
+      "ref": "I need to let Tom know"
+    },
+    {
+      "vi": "Tôi cho rằng nó không tốt",
+      "ref": "I assume it's not good"
+    },
+    {
+      "vi": "Tôi đã ở bên cô ấy đêm qua",
+      "ref": "I was with her last night"
+    },
+    {
+      "vi": "Đây là nơi xa nhất tôi có thể đi",
+      "ref": "This is as far as I go"
+    },
+    {
+      "vi": "Khi Tom hết xăng",
+      "ref": "As Tom was out of gas"
+    },
+    {
+      "vi": "Tôi đã đánh anh ta một cú",
+      "ref": "I took a swing at him"
+    },
+    {
+      "vi": "Tôi quá già so với Tom",
+      "ref": "I'm too old for Tom"
+    },
+    {
+      "vi": "Làm như thế chẳng có ích gì",
+      "ref": "It's no use doing that"
+    },
+    {
+      "vi": "Cô ấy đang ở trong tình trạng quá sức",
+      "ref": "She's in over her head"
+    },
+    {
+      "vi": "Tôi không sợ cái chết",
+      "ref": "It's not death I fear"
+    },
+    {
+      "vi": "Tôi muốn được giúp đỡ một chút",
+      "ref": "I'd like a little help"
+    },
+    {
+      "vi": "Bạn nghĩ nó là gì?",
+      "ref": "What did you think it was"
+    },
+    {
+      "vi": "Chúng ta nên làm điều đó với ai?",
+      "ref": "Who should we do that with"
+    },
+    {
+      "vi": "Tom đang ở nước ngoài",
+      "ref": "Tom is out of the country"
+    },
+    {
+      "vi": "Miễn là bạn ở đây",
+      "ref": "As long as you're here"
+    },
+    {
+      "vi": "Anh ấy háo hức muốn đến đó",
+      "ref": "He is eager to go there"
+    },
+    {
+      "vi": "Tôi có thể gọi lại cho bạn được không?",
+      "ref": "May I call on you again"
+    },
+    {
+      "vi": "Đó là những gì đang diễn ra",
+      "ref": "That's what was going on"
+    },
+    {
+      "vi": "Hôm nay là một ngày chậm chạp",
+      "ref": "It's been a slow day"
+    },
+    {
+      "vi": "Tôi mừng vì nó đã kết thúc",
+      "ref": "I'm glad it's over"
+    },
+    {
+      "vi": "Bạn thích cái nào trong số này?",
+      "ref": "Which of these do you like"
+    },
+    {
+      "vi": "Hãy để tôi tham gia trò chơi",
+      "ref": "Let me join in the game"
+    },
+    {
+      "vi": "Chỗ của bạn là bên cạnh tôi",
+      "ref": "Your place is by my side"
+    },
+    {
+      "vi": "Anh ấy được tự do đi đến đó",
+      "ref": "He is free to go there"
+    },
+    {
+      "vi": "Bạn sắp làm điều đó à?",
+      "ref": "Are you about to do that"
+    },
+    {
+      "vi": "Tom đang trên đường đến đây",
+      "ref": "Tom is on his way now"
+    },
+    {
+      "vi": "Tôi đồng ý không làm điều đó",
+      "ref": "I agreed not to do that"
+    },
+    {
+      "vi": "Tôi là người đáng trách",
+      "ref": "I'm the one to blame"
+    },
+    {
+      "vi": "Tom đang ở trên mái nhà",
+      "ref": "Tom is up on the roof"
+    },
+    {
+      "vi": "Bạn có thể đưa cái này cho họ không?",
+      "ref": "Can you give this to them"
+    },
+    {
+      "vi": "Tôi là người duy nhất còn lại",
+      "ref": "I'm the only one left"
+    },
+    {
+      "vi": "Tôi đang trong tâm trạng tồi tệ",
+      "ref": "I'm in a bad mood"
+    },
+    {
+      "vi": "Bạn thật tốt bụng",
+      "ref": "It's very nice of you"
+    },
+    {
+      "vi": "Tôi đã nghe nói về nó trước đây",
+      "ref": "I have heard of it before"
+    },
+    {
+      "vi": "Tôi muốn nói chuyện với Tom",
+      "ref": "I want to speak to Tom"
+    },
+    {
+      "vi": "Tôi đã từng làm việc cho Tom",
+      "ref": "I used to work for Tom"
+    },
+    {
+      "vi": "Chúc bạn may mắn nhất",
+      "ref": "The best of luck to you"
+    },
+    {
+      "vi": "Bạn muốn trở thành gì?",
+      "ref": "What do you want to be"
+    },
+    {
+      "vi": "Chúng ta đừng làm việc",
+      "ref": "Let's not do the work"
+    },
+    {
+      "vi": "Tôi biết đó là lời nói dối",
+      "ref": "I knew it was a lie"
+    },
+    {
+      "vi": "Mặt trời sắp lặn",
+      "ref": "The sun was about to set"
+    },
+    {
+      "vi": "Cuốn sách có ở trên ghế không?",
+      "ref": "Is the book on the chair"
+    },
+    {
+      "vi": "Bạn có thể cho tôi một phòng được không?",
+      "ref": "Will you get me a room"
+    },
+    {
+      "vi": "Tôi muốn nghỉ ngơi",
+      "ref": "I want to take a rest"
+    },
+    {
+      "vi": "Bạn đến vào lúc mấy giờ?",
+      "ref": "What time did you get in"
+    },
+    {
+      "vi": "Em là người anh thích",
+      "ref": "You're the one I like"
+    },
+    {
+      "vi": "Tôi phải hành động ngay lập tức",
+      "ref": "I had to act at once"
+    },
+    {
+      "vi": "Đó là tất cả những gì chúng ta có thể làm",
+      "ref": "That's all we can do"
+    },
+    {
+      "vi": "Chúng ta hãy lên xe nhé",
+      "ref": "Let's get in the car"
+    },
+    {
+      "vi": "Có dễ để giải quyết không?",
+      "ref": "Is it easy to deal with"
+    },
+    {
+      "vi": "Tôi vẫn đang gọi điện",
+      "ref": "I'm still on a call"
+    },
+    {
+      "vi": "Cho đến hết cuộc đời tôi",
+      "ref": "For the rest of my life"
+    },
+    {
+      "vi": "Bạn có thể giúp tôi một việc được không?",
+      "ref": "Will you do me a favor"
+    },
+    {
+      "vi": "Sẽ giúp ích gì khi nói rằng",
+      "ref": "Will it help to say that"
+    },
+    {
+      "vi": "Đây là lý do tôi đến đây",
+      "ref": "This is what I came for"
+    },
+    {
+      "vi": "Làm từng việc một",
+      "ref": "Do one thing at a time"
+    },
+    {
+      "vi": "Tôi muốn nói chuyện với cô ấy",
+      "ref": "I wish to speak to her"
+    },
+    {
+      "vi": "Tôi sắp làm điều đó",
+      "ref": "I'm about to do that"
+    },
+    {
+      "vi": "Tôi đã có thể làm được điều đó",
+      "ref": "I was able to do it"
+    },
+    {
+      "vi": "Đó không phải là những gì tôi đã làm",
+      "ref": "That's not what I did"
+    },
+    {
+      "vi": "Bạn chỉ vừa kịp lúc",
+      "ref": "You are only just in time"
+    }
+  ]
+}

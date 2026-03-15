@@ -1,25 +1,3 @@
 {
-  "sentences": [
-    {
-      "vi": "Tôi yêu bóng đá",
-      "en": "i love football",
-      "review_count": 2,
-      "times_correct": 4,
-      "times_wrong": 0
-    },
-    {
-      "vi": "Tôi thích cà phê",
-      "en": "i like coffee",
-      "review_count": 2,
-      "times_correct": 4,
-      "times_wrong": 2
-    },
-    {
-      "vi": "Tôi đang học tiếng anh",
-      "en": "i am learning english",
-      "review_count": 2,
-      "times_correct": 3,
-      "times_wrong": 1
-    }
-  ]
+  "sentences": []
 }

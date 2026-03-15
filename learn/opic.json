@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "topic": "music",
+            "question": "music1",
+            "answer_en": "Today, many people use their smartphones to listen to music.",
+            "answer_vi": "Ngày nay nhiều người dùng điện thoại thông minh để nghe nhạc."
+        },
+        {
+            "topic": "music",
+            "question": "music2",
+            "answer_en": "Today, many people use their smartphones to listen to music.",
+            "answer_vi": "Ngày nay nhiều người dùng điện thoại thông minh để nghe nhạc."
+        },
+        {
+            "topic": "music",
+            "question": "music3",
+            "answer_en": "Today, many people use their smartphones to listen to music.",
+            "answer_vi": "Ngày nay nhiều người dùng điện thoại thông minh để nghe nhạc."
+        },
+        {
+            "topic": "travel",
+            "question": "travel1",
+            "answer_en": "Today, many people use their smartphones to listen to music. They can easily stream songs, search for music, read lyrics, and play songs with just a few taps. Many music lovers also care about good sound quality and like using Bluetooth devices that connect to their phones without wires. Wireless headphones and portable speakers are very popular because they make listening to music more convenient and allow people to move freely while enjoying good sound.",
+            "answer_vi": "Ngày nay nhiều người dùng điện thoại thông minh để nghe nhạc. Họ có thể dễ dàng phát nhạc trực tuyến, tìm kiếm bài hát, đọc lời bài hát và mở nhạc chỉ với vài thao tác. Nhiều người yêu âm nhạc cũng quan tâm đến chất lượng âm thanh tốt và thích sử dụng các thiết bị Bluetooth kết nối với điện thoại mà không cần dây. Tai nghe không dây và loa di động rất phổ biến vì chúng giúp việc nghe nhạc thuận tiện hơn và cho phép mọi người di chuyển tự do trong khi thưởng thức âm thanh tốt."
+        },
+        {
+            "topic": "travel",
+            "question": "travel2",
+            "answer_en": "Today, many people use their smartphones to listen to music. They can easily stream songs, search for music, read lyrics, and play songs with just a few taps. Many music lovers also care about good sound quality and like using Bluetooth devices that connect to their phones without wires. Wireless headphones and portable speakers are very popular because they make listening to music more convenient and allow people to move freely while enjoying good sound.",
+            "answer_vi": "Ngày nay nhiều người dùng điện thoại thông minh để nghe nhạc. Họ có thể dễ dàng phát nhạc trực tuyến, tìm kiếm bài hát, đọc lời bài hát và mở nhạc chỉ với vài thao tác. Nhiều người yêu âm nhạc cũng quan tâm đến chất lượng âm thanh tốt và thích sử dụng các thiết bị Bluetooth kết nối với điện thoại mà không cần dây. Tai nghe không dây và loa di động rất phổ biến vì chúng giúp việc nghe nhạc thuận tiện hơn và cho phép mọi người di chuyển tự do trong khi thưởng thức âm thanh tốt."
+        }
+    ]
+}
