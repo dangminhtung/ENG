@@ -1,23 +1,35 @@
+/*
 
-/**
-    I think this picture was taken at a bakery. There are two people in this picture. The man on the right is wearing a blue shirt. He must be a customer because he seems to be at the counter waiting to buy something. The woman in the middle/center is wearing a white jacket or uniform  and a black cap to cover her hair. I think she must be a  baker. It looks like she just took the tray of bread out of the oven. The oven is behind her. Maybe customer was waiting to buy some of the deliciuos bread.
+Who should I assign this task to?
 
-    *! bakery: bếc cơ ry
-    *! jacket:chác kịt
-    *! oven: ơ vừn
-    *! delicious: đì lịt sợt
-*/
+(A) Someone in marketing.
 
-/**
-    I think this picture was taken at an office. There are two people in this picture.The young man on the left is wearing a white shirt. He must be a technology expert because he seems to be repairing or installing computer parts. The older man is sitting behind the desk and he is wearing glasses. There is a computer unit on the right side of the table and the older man is watching the younger man fix his computer. This scene could be from a computer repair class or a training session, where the older man might be a teacher or supervisor.
+(B) I'll finish it by Tuesday.
 
-    *! glasses: gờ lạt sịt
-    *! unit: diu nít
-*/
+(C) Please sign here.
 
-/**
-    I think this picture was taken at a supermarket. There are two people in this picture. They are dressed casually and each of them is holding a shopping cart. The woman on the left is wearing a light-colored shirt and appears to be pointing at something while talking to the other woman. The woman on the right is wearing a darker shirt and has her hand on her hip, listening to the conversation. Behind them, merchandise is neatly arranged on the shelves. It looks like a casual and friendly moment during a shopping trip.
+Which pattern do you like best?
 
-    *! merchandise: mở chừn đai
-    *! neatly: nít li - gọn gàng
+(A) Let's choose the best idea.
+
+(B) I think the striped shirt is nice.
+
+(C) The store closes soon.
+
+Don't you live in the same neighborhood as Jim?
+
+(A) No, I don't leave until 6:00 PM.
+
+(B) Yes, very close in fact.
+
+(C) It's different from this new product.
+
+Who's most qualified for this position?
+
+(A) Complete the form online.
+
+(B) Actually, I'll have to review their résumés.
+
+(C) They filed an official complaint.
+
 */
