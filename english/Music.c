@@ -27,11 +27,13 @@ groove: nhịp điệu gru vờ
 mood: mút
 
 ! what new electronisc gadgets or equipment are people who like music interested in these days? what new products excite them and why?
-* Nowadays, music lovers are really excited about high-tech wireless gadgets like noise-canceling headphones and portable Bluetooth speakers. These devices are incredibly popular because they allow people to enjoy high-quality sound without having to worry about tangled wires. I think the most exciting part is the noise-canceling feature, which allows users to focus entirely on their music even in noisy environments. Plus, since everyone uses smartphones, these devices make it so much more convenient to stream songs anytime, anywhere. Honestly, I can’t imagine listening to music without my wireless headphones anymore because they give me such a sense of freedom.
+* Nowadays, music lovers are really excited about high-tech wireless devices like noise-canceling headphones and portable Bluetooth speakers. These devices are very popular because they allow people to enjoy high-quality sound without having to worry about tangled wires. I think the most exciting part is the noise-canceling feature, which allows users to focus entirely on their music even in noisy environments. Plus, since everyone uses smartphones, these devices make it so much more convenient to stream songs anytime, anywhere. Honestly, I can’t imagine listening to music without my wireless headphones anymore because they give me such a sense of freedom.
 
+portable: cầm tay bốt ơ bồ
 tangled: rối rắm tang gồ
 noise-canceling: khử tiếng ồn noi cen sồ 
 entirely: toàn bộ en thai ờ ly
+imagine: tưởng tượng i MA dừn
 
 
 
