@@ -1,7 +1,8 @@
 /*
 ! Please tell me n detail which bell tower you like and who is your favorite singer
 ! Who listens to music with you for the first time and where do you listen to music
-* I don’t remember exactly when I first started listening to music. When I was in middle school, my parents bought me an MP3 player, and I often listened to many songs on it. One day, I heard a song called “Lie” by Big Bang, a famous K-pop group. The song had a lively melody and touching lyrics, so I became a big fan of K-pop. Even now, I enjoy listening to K-pop before going to bed because it helps me relax and feel good.
+* I don’t remember exactly when I first started listening to music. When I was in middle school, my parents bought me an MP3 player, and I often listened to many songs on it. One day, I heard a song called “Lie” by Big Bang, a famous K-pop group. The song had a lively melody and touching lyrics, so I became a big fan of K-pop. Now, I enjoy listening to K-pop before going to bed because it helps me relax and feel good.
+
 
 ! Please tell me more about how to listen to muisc
 * Whenever I have free time, I enjoy listening to pop music. At home, I use my computer with a good audio system, so the sound is great and makes me feel like I’m in a club. When I go out, I usually listen to music on my smartphone with headphones, which helps me concentrate. It’s very convenient because I can listen anytime and anywhere.
