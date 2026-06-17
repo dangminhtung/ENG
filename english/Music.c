@@ -18,7 +18,7 @@ calm : com
 
 ! What kinds of music do you listen to? Who are some of your favorite musicians or composers?
 ! Pick 2 different types of music or cmoposers. Describe and compare.
-* When it come to music, I enjoy listening to Bruno Mars and TWICE. First, Bruno Mars is a very successful singer. He has won many music awards. Many of his pop and R&B songs are catchy and have been very popular on the charts. On the other hand, TWICE is a successful K-POP girl group with fans all over the world, known for their catchy and trendy music. Compare the two, they have different styles, but they both make massive hits all over the world. Bruno is more about the 'groove', while TWICE is about 'energy'. I enjoy listening to both depending on my mood.
+* When it come to music, I enjoy listening to Bruno Mars and TWICE. First, Bruno Mars is a very successful singer. He has won many music awards. Many of his pop and R&B songs are catchy and have been very popular on the world. On the other hand, TWICE is a successful K-POP girl group with fans all over the world, known for their catchy and trendy music. Compare the two, they have different styles, but they both make massive hits all over the world. Bruno is more about the 'groove', while TWICE is about 'energy'. I enjoy listening to both depending on my mood.
 
 genre : zan n rờ
 chathy: dễ nhờ cát chy
@@ -28,15 +28,14 @@ groove: nhịp điệu gru vờ
 mood: mút
 
 ! what new electronisc gadgets or equipment are people who like music interested in these days? what new products excite them and why?
-* Nowadays, music lovers are really excited about high-tech wireless devices like noise-canceling headphones and portable Bluetooth speakers. These devices are very popular because they allow people to enjoy high-quality sound without having to worry about tangled wires. I think the most exciting part is the noise-canceling feature, which allows users to focus entirely on their music even in noisy environments. Futhermore, since everyone uses smartphones, These devices make streaming music much more convenient anytime and anywhere. Honestly, I can’t imagine listening to music without my wireless headphones anymore because they give me such a sense of freedom.
+* Nowadays, music lovers are really excited about high-tech wireless devices like noise-canceling headphones and portable Bluetooth speakers. These devices are very popular because they allow people to enjoy high-quality sound without having to worry about tangled wires. I think the most exciting part is the noise-canceling feature because users can focus entirely on their music even in noisy environments. Moreover, because most people use smartphones, they can listen to music online anytime and anywhere. Honestly, I can’t imagine listening to music without my wireless headphones anymore because they give me such a sense of freedom.
 
 portable: cầm tay bốt ơ bồ
 tangled: rối rắm tang gồ
-noise-canceling: khử tiếng ồn noi cen sồ 
+noise-canceling: khử tiếng ồn noi cen sồ
 entirely: toàn bộ en thai ờ ly
 imagine: tưởng tượng i MA dừn
 such a sense of freedom: sắt chờ sen sờ ờ freedom
-
 
 
 ! Could you think back to a particularly memorable time when you heard live muslc? When was it? Where were you? Who were you with? What happened that made that performance so memorable?
