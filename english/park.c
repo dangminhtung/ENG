@@ -1,5 +1,6 @@
 /*
 
+! a recent visit to the park 
 ! Park description (+ holiday)
 * I usually go for a walk in a park near my house. I often listen to music, so I prefer going alone because it’s hard to focus when I go with others. The park has many trees and a lake, so the air is very fresh. There are also exercise facilities and jogging tracks, which help people relieve stress. I usually jog on a small path near the lake and listen to music while enjoying the view, It helps me feel relaxed and energized.
 
