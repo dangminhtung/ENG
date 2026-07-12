@@ -1,5 +1,10 @@
 /*
 
+! How did you first start going to the park
+* I don’t remember the first time I went to the park, but I think I started going there when I was in high school because of my mom. At that time, I was under a lot of stress from studying, and I often felt tired and had headaches. I asked my mom for advice, and she suggested I should exercise more. So I started jogging in a park near my house every evening. After about a month, I felt healthier and much less stressed, so now I still go to the park to exercise whenever I have free time or I'm stressed.
+
+headaches: hét đệc
+
 ! a recent visit to the park 
 ! Park description (+ holiday)
 * I usually go for a walk in a park near my house. I often listen to music, so I prefer going alone because it’s hard to focus when I go with others. The park has many trees and a lake, so the air is very fresh. There are also exercise facilities and jogging tracks, which help people relieve stress. I usually jog on a small path near the lake and listen to music while enjoying the view, It helps me feel relaxed and energized.
@@ -15,11 +20,6 @@ energized: tràn đầy sinh lực en nơ zai
 absorb: hấp thụ ập dốb
 absorb sweat: hấp thụ mồ hôi
 ankles: mắt cá chân ang cồ
-
-! How did you first start going to the park
-* I don’t remember the first time I went to the park, but I think I started going there when I was in high school because of my mom. At that time, I was under a lot of stress from studying, and I often felt tired and had headaches. I asked my mom for advice, and she suggested I should exercise more. So I started jogging in a park near my house every evening. After about a month, I felt healthier and much less stressed, so I still usually go to the park to exercise .
-
-headaches: hét đệc
 
 ! experience(weather)
 * My most memorable experience at the park happened a few months ago. I was jogging in my favorite park when it suddenly started raining heavily. I didn’t check the weather forecast and didn’t bring an umbrella, so I got completely wet. Because the road was dark and slippery, I accidentally slipped while running home and fell down. I hit my knee on the ground and felt a sharp pain. My phone was broken so I couldn't anyone and I had to go home by myself. Since then, I always check the weather forecast before going out.
