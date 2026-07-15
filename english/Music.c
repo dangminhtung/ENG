@@ -3,18 +3,17 @@
 ! Who listens to music with you for the first time and where do you listen to music
 * I don’t remember exactly when I first started listening to music. When I was in middle school, my parents bought me an MP3 player, and I often listened to many songs on it. One day, I heard a song called “Lie” by Big Bang, a famous K-pop group. The song had a lively melody and touching lyrics, so I quickly became a huge fan of K-pop. Now, I enjoy listening to K-pop before going to bed because it helps me relax and feel good.
 
-
-! Please tell me more about how to listen to muisc
-* Whenever I have free time, I enjoy listening to pop music. At home, I use my computer with a good audio system, so the sound is great and makes me feel like I’m in a club. When I go out, I usually listen to music on my smartphone with headphones, which helps me concentrate. It’s very convenient because I can listen anytime and anywhere.
-
-concentrate: tập trung con sừn trệt
-
 ! Change
 * I have been a huge fan of music since I was little, and it all started when I discovered a famous pop band. I used to listen to their songs every day and learned all the lyrics by heart. But when I entered university, I started to enjoy ballads because my friend always listened to them. Ballads make me feel calm and help me relax after a long day. Now, I like listening to ballad in the morning to start my day peacefully.
 
 lyric: li rịc
 relax: rì lác
 calm : com
+
+! My memorable concert experience
+! Could you think back to a particularly memorable time when you heard live muslc? When was it? Where were you? Who were you with? What happened that made that performance so memorable?
+
+TODO: I remember going to a concert with my friends about 2 years ago. It was a concert by Mr Zero, who is one of my favorite singers. There was many bands performing that night and people sang along to most of the songs. Everyone cheered loudly when the singer came on stage. The atmosphere was amazing because there were so many famous singers and we all enjoyed the live performances. After the concert we went to a nearby cafe to hang out and talk for a while. Looking back, it was one of the most memorable concert in my life.
 
 ! What kinds of music do you listen to? Who are some of your favorite musicians or composers?
 ! Pick 2 different types of music or cmoposers. Describe and compare.
@@ -27,6 +26,11 @@ massive: to lớn ma sịp
 groove: nhịp điệu gru vờ
 mood: mút
 
+! Please tell me more about how to listen to muisc
+* Whenever I have free time, I enjoy listening to pop music. At home, I use my computer with a good audio system, so the sound is great and makes me feel like I’m in a club. When I go out, I usually listen to music on my smartphone with headphones, which helps me concentrate. It’s very convenient because I can listen anytime and anywhere.
+
+concentrate: tập trung con sừn trệt
+
 ! what new electronisc gadgets or equipment are people who like music interested in these days? what new products excite them and why?
 * Nowadays, music lovers are really excited about high-tech wireless devices like noise-canceling headphones and portable Bluetooth speakers. These devices are very popular because they allow people to enjoy high-quality sound without having to worry about tangled wires. I think the most exciting part is the noise-canceling feature because users can focus entirely on their music even in noisy environments. Moreover, because most people use smartphones, they can listen to music online anytime and anywhere. Honestly, I can’t imagine listening to music without my wireless headphones anymore because they give me such a sense of freedom.
 
@@ -36,9 +40,4 @@ noise-canceling: khử tiếng ồn noi cen sồ
 entirely: toàn bộ en thai ờ ly
 imagine: tưởng tượng i MA dừn
 such a sense of freedom: sắt chờ sen sờ ờ freedom
-
-! My memorable concert experience
-! Could you think back to a particularly memorable time when you heard live muslc? When was it? Where were you? Who were you with? What happened that made that performance so memorable?
-
-TODO: I remember going to a concert with my friends about 2 years ago. It was a concert by Mr Zero, who is one of my favorite singers. There was many bands performing that night and people sang along to most of the songs. Everyone cheered loudly when the singer came on stage. The atmosphere was amazing because there were so many famous singers and we all enjoyed the live performances. After the concert we went to a nearby cafe to hang out and talk for a while. Looking back, it was one of the most memorable concert in my life.
 */
