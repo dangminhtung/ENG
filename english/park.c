@@ -39,6 +39,8 @@ energized: tràn đầy sinh lực en nơ zai
 ! what do you take before you go for a walk
 * Before jogging, I change into comfortable and light clothes so I can move easily and absorb sweat. I think choosing the right shoes is the most important thing because uncomfortable shoes can hurt my feet or ankles. When I jog in the park, I usually listen to music for about an hour. After that, I sit on a bench, eat some snacks, and drink water to rest and regain energy.
 
+* Before I go jogging, I always make sure to wear comfortable, lightweight clothes so that I can move freely and stay cool. Also, choosing the right pair of shoes is crucial for me because wearing uncomfortable ones could easily hurt my feet or ankles. When I'm at the park, I usually listen to my favorite playlist for about an hour, which really helps me stay motivated. After the jog, I love sitting on a bench to have some snacks and drink plenty of water. It’s the perfect way for me to catch my breath and regain my energy after a good workout
+
 absorb: hấp thụ ập dốb
 absorb sweat: hấp thụ mồ hôi
 ankles: mắt cá chân ang cồ
