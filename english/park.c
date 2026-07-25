@@ -38,7 +38,7 @@ energized: tràn đầy sinh lực en nơ zai
 
 ! what do you take before you go for a walk
 
-* Before I go jogging, I always make sure to wear comfortable, lightweight clothes so that I can move freely and stay cool. I think choosing the right shoes is the most important thing because uncomfortable shoes can hurt my feet or ankles. Beside that, there are a few things I always bring with me. I carry a bottle of water, some snakes to regain energy and my earphones because I enjoy listening to music while I jog. After jogging for about an hour, I sit on the bench, eat some snacks and drink water while I take a short break.
+* Before I go jogging, I always make sure to wear comfortable, lightweight clothes so that I can move freely and stay cool. I think choosing the right shoes is the most important thing because uncomfortable shoes can hurt my feet or ankles. Beside that, there are a few things I always bring with me. I carry a bottle of water, some snacks to regain energy and my earphones because I enjoy listening to music while I jog. After jogging for about an hour, I sit on the bench, eat some snacks and drink water while I take a short break.
 
 ankles: mắt cá chân ang cồ
 bottle: Ba đồ
