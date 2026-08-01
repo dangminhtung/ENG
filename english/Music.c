@@ -33,7 +33,7 @@ concentrate: tập trung con sừn trệt
 
 ! what new electronisc gadgets or equipment are people who like music interested in these days? what new products excite them and why?
 
-* Nowadays, music lovers are really excited about high-tech wireless devices like noise-canceling headphones. This devices are very popular because they allow people to enjoy high-quality sound without having to worry about tangled wires. I think the most exciting part is the noise-canceling feature because users can focus entirely on their music even in noisy environments. Moreover, because most people use smartphones, they can listen to music online anytime and anywhere. Honestly, I can’t imagine listening to music without my wireless headphones anymore because they give me such a sense of freedom.
+* Nowadays, music lovers are really excited about high-tech wireless devices like noise-canceling headphones. This devices are very popular because they allow people to enjoy high-quality sound without having to worry about tangled wires. I think the most exciting part is the noise-canceling feature because users can focus entirely on their music even in noisy environments. Moreover, because nowdays everyone uses smartphones, they can listen to music online anytime and anywhere. Honestly, I can’t imagine listening to music without my wireless headphones anymore because they give me such a sense of freedom.
 
 tangled: rối rắm tang gồ
 noise-canceling: khử tiếng ồn noi cen sồ
