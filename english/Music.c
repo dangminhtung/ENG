@@ -13,11 +13,11 @@ calm : com
 ! My memorable concert experience
 ! Could you think back to a particularly memorable time when you heard live muslc? When was it? Where were you? Who were you with? What happened that made that performance so memorable?
 
-TODO: I remember going to a concert with my friends about 2 years ago. It was a concert by Mr Zero, who is one of my favorite singers. There was many bands performing that night and people sang along to most of the songs. Everyone cheered loudly when the singer came on stage. The atmosphere was amazing because there were so many famous singers and we all enjoyed the live performances. After the concert we went to a nearby cafe to hang out and talk for a while. Looking back, it was one of the most memorable concert in my life.
+* I remember going to a concert with my friends about 2 years ago. It was a concert by Mr Zero, who is one of my favorite singers. There was many bands performing that night and people sang along to most of the songs. Everyone cheered loudly when the singer came on stage. The atmosphere was amazing because there were so many famous singers and we all enjoyed the live performances. After the concert we went to a nearby cafe to hang out and talk for a while. Looking back, it was one of the most memorable concert in my life.
 
 ! What kinds of music do you listen to? Who are some of your favorite musicians or composers?
 ! Pick 2 different types of music or cmoposers. Describe and compare.
-* When it come to music, I enjoy listening to Bruno Mars and TWICE. First, Bruno Mars is a very successful singer. He has won many music awards. Many of his pop and R&B songs are catchy and have been very popular on the world. On the other hand, TWICE is a successful K-POP girl group with fans all over the world, known for their catchy and trendy music. Compare the two, they have different styles, but they both make massive hits all over the world. Bruno is more about the 'groove', while TWICE is about 'energy'. I enjoy listening to both depending on my mood.
+* When it come to music, I enjoy listening to Bruno Mars and BIGBANG. First, Bruno Mars is a very successful singer. He has won many music awards. Many of his pop and R&B songs are catchy and have been very popular on the world. On the other hand, BIGBANG is a successful K-POP group with fans all over the world, known for their catchy and trendy music. Compare the two, they have different styles, but they both make massive hits all over the world. Bruno is more about the 'groove', while BIGBANG is about 'energy'. I enjoy listening to both depending on my mood.
 
 genre : zan n rờ
 chathy: dễ nhờ cát chy
