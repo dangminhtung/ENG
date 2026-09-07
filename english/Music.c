@@ -1,10 +1,10 @@
 /*
 ! Please tell me n detail which bell tower you like and who is your favorite singer
 ! Who listens to music with you for the first time and where do you listen to music
-* I don’t remember exactly when I first started listening to music. When I was in middle school, my parents bought me an MP3 player, and I often listened to many songs on it. One day, I heard a song called “Lie” by Big Bang, a famous K-pop group. The song had a lively melody and touching lyrics, so I quickly became a huge fan of K-pop. Now, I enjoy listening to K-pop before going to bed because it helps me relax and feel good.
+* I don't remember exactly the first time I listened to music. When I was in middle school, my parents bought me an MP3 player, and I often listened to many songs on it. One day, I heard a song called “Lie” by Big Bang, a famous K-pop group. The song had a lively melody and touching lyrics, so I quickly became a huge fan of K-pop. Now, I enjoy listening to K-pop before going to bed because it helps me relax and feel good.
 
 ! Change
-* I have been a huge fan of music since I was little, and it all started when I discovered a famous pop band. I used to listen to their songs every day and learned all the lyrics by heart. But when I entered university, I started to enjoy ballads because my friend always listened to them. Ballads make me feel calm and help me relax after a long day. Now, I like listening to ballad in the morning to start my day peacefully.
+* I have been a huge fan of music since I was little, and it all started when I discovered a famous pop band. I used to listen to their songs every day and learned all the lyrics by heart. But when I entered university, I started to enjoy ballads because my friend always listened to them. I tried it and it really helped me focus much more. Ballads also make me feel calm and help me relax after a long day. Now, I like listening to ballad in the morning to start my day peacefully.
 
 lyric: li rịc
 relax: rì lác
@@ -27,17 +27,16 @@ groove: nhịp điệu gru vờ
 mood: mút
 
 ! Please tell me more about how to listen to muisc
-* Whenever I have free time, I enjoy listening to pop music. At home, I use my computer with a good audio system, so the sound is great and makes me feel like I’m in a club. When I go out, I usually listen to music on my smartphone with headphones, which helps me concentrate. It’s very convenient because I can listen anytime and anywhere.
+* Whenever I have free time, I enjoy listening to pop music. At home, I use my computer with a good audio system, so the sound is great and makes me feel like I’m in a club. When I go out, I usually listen to music on my smartphone with headphones. The sound is not as good as when I listening to music at home but it’s very convenient because I can listen anytime and anywhere. My headphone also have noise canceling feature, it help me focus even in noise environment. That's all I want to talk about how I listen to music
 
 concentrate: tập trung con sừn trệt
 
 ! what new electronisc gadgets or equipment are people who like music interested in these days? what new products excite them and why?
 
-* Nowadays, music lovers are really excited about high-tech wireless devices like noise-canceling headphones. This devices are very popular because they allow people to enjoy high-quality sound without having to worry about tangled wires. I think the most exciting part is the noise-canceling feature because users can focus entirely on their music even in noisy environments. Moreover, because nowdays everyone uses smartphones, they can listen to music online anytime and anywhere. Honestly, I can’t imagine listening to music without my wireless headphones anymore because they give me such a sense of freedom.
+* Nowadays, music lovers are really excited about high-tech wireless devices like noise-canceling headphones. This devices are very popular because they allow people to enjoy high-quality sound without having to worry about tangled wires. I think the most exciting part is the noise-canceling feature because users can focus entirely on their music even in noisy environments. Moreover, because nowdays everyone uses smartphones, they can listen to music online anytime and anywhere. Currently, my headphone have become indispensable to me
 
 tangled: rối rắm tang gồ
 noise-canceling: khử tiếng ồn noi cen sồ
 entirely: toàn bộ en thai ờ ly
-imagine: tưởng tượng i MA dừn
-such a sense of freedom: sắt chờ sen sờ ờ freedom
+
 */
