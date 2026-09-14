@@ -1,4 +1,10 @@
 /*
+
+Hi My name is Tung
+I'm an engineer and I live in Vietnam
+I'm currently live alone 
+I like listening to music and watching movies
+
 ! Description
 * I lived in an apartment for few years. It has 2 bedrooms, a living room and a kitchen. Beside that there are 2 bathrooms and a big balcony. In the living room, we have some furniture and home appliances. First there is a sofa, a coffee table and a cabinet. We also have a tv and an air conditioner. In the kitchen there is a sink, a dining table and some cabinets. We also have a fridge, a microwave and a gas stove. So that's what my place look like.
 
