@@ -3,7 +3,7 @@
 * I usually make appointments for the doctor or dentist. Sometimes, I also make an appointment at a hair salon. For a doctor’s appointment, I usually call the hospital or use an app. For a haircut, I call the salon and choose a convenient time. I usually make an appointment when I am free.
 
 ! What kind of thing do you do when you make appointment? Tell me what you do exactly when you make these appointments?
-* First, I decide what kind of appointment I need. Then, I check my schedule and choose a convenient time. After that, I call the place to make appointment. I tell them my name and the reason for my appointment. Finally, I check the date and time again. I usually save the appointment on my phone.
+* First, I decide what kind of appointment I need. Then, I check my schedule and choose a good time. After that, I call the place or person I need to make an appointment with. I tell them my name and the reason for my appointment. Finally, I check my schedule again and note it down in my phone.
 
 ! Talk about an appointment you made as a child? What was appointment for? Was it for a doctor, dentis or a new school? What did you do and what happened when you got to your appointment?
 * When I was a child, I had a doctor’s appointment. I had a fever and did not feel well. My mother made an appointment at a local hospital. On that day, we went to the hospital by bus. The doctor checked my temperature and gave me some medicine. After a few days, I felt much better.
