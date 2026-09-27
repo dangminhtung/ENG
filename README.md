@@ -28,3 +28,34 @@ Park
 - Exp
 - Description
 - Prepare
+
+Vacation
+- People you meet
+- Do when you spend time
+- Describe
+- Unusual or unexpected exp
+
+Appointment
+- Kind of appointment
+- Thing do you do
+- Appointment made a child
+- Memorable
+
+Salon
+- Babershop usually to go
+- Do you usually do 
+- hairstyle befor and after
+- Babershop in your country 
+
+Bank
+- Bank in your country
+- Do you usually do
+- Bank before and after
+- Memorable
+
+Geography
+- Describe
+- Favorite place
+- Memorable
+- Outdoor activiti popular
+
