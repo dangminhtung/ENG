@@ -35,6 +35,26 @@ Vacation
 - Describe
 - Unusual or unexpected exp
 
+Environment
+- Individual can do
+- People aware of environment
+- Participated environmental protection activity
+- First become interested
+- Most important environmental issue
+
+Communication
+- Methods contact
+- Past and now
+- Keep in touch
+- How telephone change your lifestyle
+
+Human_Right
+- Think human right
+- Kind of human righs important
+- Human right are well protected in your country
+- Ever learn about human right
+- Past and now
+
 Appointment
 - Kind of appointment
 - Thing do you do
