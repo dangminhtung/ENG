@@ -18,6 +18,13 @@ I like listening to music and watching movies
 * I remember buying new furniture for my bedroom. It was a new bed because the old one was too small for me. You know as I got older, I grew taller so I went to a furniture store to buy a new bed. After looking at many options, I decided to choose a big brown bed. I had to move the old bed out to make room for the new one. The staff helped me install it. The new bed looked very nice in my room. So that was the change I made in my home
 
 ! How I keep my house clean
+! What is your normal routine at home? Do you do housework everyday? What do you usually do on weekdays and what do you do on weekends
+At home, my routine is pretty simple.
+On weekdays, I usually get home after work and take a short rest.
+Then, I have dinner, take a shower, and watch videos or use my phone.
+I also do some simple housework, like cleaning my room and washing the dishes.
+On weekends, I have more free time, so I usually clean my room, do the laundry, and relax at home.
+Sometimes, I watch a movie or listen to music.
 * There are many things I often do to keep my house clean and tidy. I try to clean my apartment on weekends ot whenever I have time. I'm usually busy on weekdays so I can only vacuum my room and do the dishes. However I deep clean my house on weekends. First I vacuum the floors and clean the furniture, also i clean the bathrooms and toilets. Next I take out the garbage and take a shower. Finally I do the laundry after having a meal. So these are the things I do to keep my house clean
 
 ! The problem happened
