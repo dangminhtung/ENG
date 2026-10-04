@@ -43,4 +43,20 @@ I believe everyone can protect the environment through small action
 
 ! en vair men to
 
+TODO: Clean water and air are essential for everyone. However, in many areas, they are still lacking due to environmental pollution. Please share your opinion on this issue.
+I think clean water and clean air are essential for everyone.
+However, environmental pollution can make them unsafe in some areas.
+For example, air pollution can come from cars and factories.
+Water can also become polluted because of trash and other waste.
+I think we should reduce pollution and protect the environment.
+Small actions, like using less plastic and recycling, can make a difference.
+
+TODO: Many people participate in volunteer programs to improve the local environment. Have you ever taken part in such a program? If so, what did you do? Also, why did you decide to participate?
+Yes, I have taken part in a clean-up activity at a park near my home.
+I went there with some of my friends on the weekend.
+We picked up plastic bottles and other trash in the park.
+We did it because we wanted to make the park cleaner.
+It took about two hours, and we were a little tired afterward.
+But the park looked much cleaner, so I felt happy and proud of our work.
+
 */
