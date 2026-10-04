@@ -22,7 +22,7 @@ My furniture makes my daily life more comfortable and convenient.
 
 When I was a child, my room had a bed, a small desk, and a chair.
 The furniture was smaller than the furniture I have now.
-My desk was small because I did not need much space.
+My furniture was small because I didn't have too many things
 Now, my furniture is bigger and more comfortable.
 You know as I got older, I grew taller so I need a big bed
 I also have more space for my computer and other things.
