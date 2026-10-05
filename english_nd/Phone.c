@@ -6,7 +6,7 @@ I often use it to take pictures of my family, friends, and places I visit.
 I also like social media apps because I can easily keep in touch with my friends.
 They are quick and convenient.
 I think my phone is very useful in my daily life.
-todo use it to take picture of my family -> social media app , keep in touch with my friend -> this app are quick and convient 
+
 ? 2. What do you do on your phone besides talking to people?
 
 I do many things on my phone.
