@@ -40,7 +40,8 @@ For lunch, I usually eat rice with meat and vegetables.
 For dinner, Just like for lunch, I have rice, fish or meat, and some vegetables.
 Sometimes, I eat fruit for dessert.h
 
-? 6. A Memorable Eating Experience
+? 6. A Memorable Eating Experience 
+! same restaurant
 
 I remember having a memorable meal with my friends.
 A few years ago, we went to a local restaurant. 

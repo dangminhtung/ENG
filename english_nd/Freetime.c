@@ -7,7 +7,6 @@
 People in Vietnam go to many different places in their free time.
 Many people go to parks, cafes, shopping malls, or restaurants.
 Some people also go to beaches on weekends or holidays.
-In big cities, parks are popular because people can walk, jog, or relax there.
 Young people often meet their friends at cafes or shopping malls.
 About me, I usually play video game or watch movie on my phone when I have free time
 
@@ -34,8 +33,8 @@ It was simple day, but I really enjoy my free time.
 
 People do many different things in their free time.
 Some people watch movies, listen to music, play games, or use social media.
-Others like to exercise, take a walk, or meet their friends.
-They can also spend time with people they care about.
+Others like to exercise, meet their friends or spent time with their family.
+sometime, during long holiday, people can travle with their family or friend
 I think free time is important because it helps people reduce stress.
 
 */

@@ -29,4 +29,7 @@ Sometimes, I watch a movie or listen to music.
 
 ! The problem happened
 * As I remember, it happened last summer on a sunday morning. I was cooking breakfast when the pipe under the kitchen sink broke. I had to shut off water valve and moved things away from the sink. Then, I used a bucket and some towels to stop the leak. After that, I called a plumber, but he was a bit late. While waiting, I used some tape to cover the pipe. Luckily, when the plumber came, he replaced the pipe and fixed everything. Finally, I cleaned the floor and dried the kitchen. In the end, everything was fine. The experience reminded me to check the sink regulary. That's all I wanted to talk about regarding that problem.
+
+! Memorable Exp at home
+
 */

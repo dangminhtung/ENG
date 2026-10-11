@@ -1,4 +1,9 @@
 /*
+-What do you like most about your phone? Maybe you like the camera or maybe you like certain applications. Tell me why you like those features.
+-What do you do on your phone besides talking to people? Do you make updates on your social media page? Do you play games? Tell me what you typically do on your phone.
+-Tell me about the first phone you used. How was it different from the phone you use now?
+-Tell me about a time when you had trouble while using your phone. What was the problem and how did you deal with it?
+
 ? 1. What do you like most about your phone?
 
 About my phone, I like the camera.
