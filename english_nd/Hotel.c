@@ -35,5 +35,5 @@ I do not have to clean the room or prepare meals.
 I can also relax after traveling and get a good night's sleep.
 That's why I enjoy staying at hotels during my trips.
 
-todo stay at a hotel when i travel -> they are comfortable and conveient -> dont have to clean or prepare meal -> relax after traveling and get goodnigh sleep
+
 */

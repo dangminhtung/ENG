@@ -27,6 +27,8 @@ After swimming, we sat on the beach and talked for a while.
 The weather was nice, and the view was beautiful.
 It was a simple trip, but I still remember it.
 
+! 
+
 ! Tell me about the outdoor activities that are popular in your country. Do people go hiking, bike or swim? What do people typically do outdoors?
 
 There are many popular outdoor activities in Vietnam.
@@ -46,5 +48,9 @@ Cities are more crowded now, but there are also more places to eat, shop, and re
 I think it is interesting to see how my country has changed over the years.
 
 * urban: đô thị ơ bừn
+
+More tall building, shopping mall and new road than before
+public transportation has also improved
+Citi more crowded now, 
 
 */
