@@ -12,14 +12,10 @@ todo: recycle plastic bottle, can and paper -> also recyle glass bottle -> befor
 ? 2. Recycling When I Was a Child
 
 When I was a child, recycling was not as common as it is now.
-My family usually separated paper, plastic bottles, and cans at home.
-We put the recyclable items in separate bags.
-Sometimes, we took them to a recycling collection point near our home.
-The place was simple, and there were several large containers.
-I remember helping my family separate the items and take them there.
+we don't sort the trash
+we usually put all the trash into one bag.
 
-
-### 3. A Memorable Recycling Problem
+ 3. A Memorable Recycling Problem
 
 I once had a problem with recycling at home.
 I prepared some recyclable items and put them outside for collection.
@@ -32,6 +28,6 @@ Luckily, they came a few days later and collected everything.
 
 Recycling is becoming more common in Vietnam.
 People usually recycle things like plastic bottles, paper, cardboard, cans, and glass.
-In some areas, people separate recyclable items from regular trash.
+waste sorting has also become common in some area. 
 I think recycling is important because it helps reduce waste and protect the environment.
 */
